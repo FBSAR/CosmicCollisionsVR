@@ -9,6 +9,14 @@ List of requirements
   *Need auras for approaching comets
   *Need aura for planets
 
+  -- 3D Models Sourcing
+   *Earth 3D Model - https://www.turbosquid.com/3d-models/earth-max-free/1016431
+   *Comet 3D Model -  https://www.cgtrader.com/items/3090379/download-page
+   *Moon 3D Model - https://www.turbosquid.com/3d-models/realistic-moon-photorealistic-2k-model-1277420
+   
+    
+
+
 -Enviroments 
   *Need stars Environment
   *Platform for start position
