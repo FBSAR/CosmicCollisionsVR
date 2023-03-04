@@ -1255,3 +1255,584 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.03.04-19.32.39:126][573]LogContentValidation: Display: Validating Skeleton /Game/Earth_Skeleton.Earth_Skeleton
 [2023.03.04-19.32.39:126][573]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
 [2023.03.04-19.32.39:126][573]LogContentValidation: Display: Validating Texture2D /Game/Earth_TEXTURE_CM.Earth_TEXTURE_CM
+[2023.03.04-19.33.49:918][671]LogViewport: Scene viewport resized to 677x557, mode Windowed.
+[2023.03.04-19.33.51:699][725]LogViewport: Scene viewport resized to 1021x869, mode Windowed.
+[2023.03.04-19.38.47:844][175]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.03.04-19.38.47:844][175]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.04-19.38.49:933][288]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.03.04-19.38.49:933][288]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.04-19.38.50:652][326]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.03.04-19.38.50:652][326]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.03.04-19.38.50:652][326]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.04-19.38.51:693][383]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.03.04-19.38.51:693][383]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.04-19.38.52:668][439]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2023.03.04-19.39.03:103][ 25]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.04-19.39.07:206][253]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.04-19.39.39:824][167]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.04-19.39.52:464][911]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.04-19.39.56:019][121]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.04-19.40.04:834][625]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.04-19.40.08:051][801]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.04-19.40.12:492][ 49]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.04-19.40.19:583][450]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.04-19.41.45:701][411]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.03.04-19.41.46:364][449]LogViewport: Scene viewport resized to 1020x869, mode Windowed.
+[2023.03.04-19.41.46:401][450]LogViewport: Scene viewport resized to 1013x869, mode Windowed.
+[2023.03.04-19.41.46:435][451]LogViewport: Scene viewport resized to 1011x869, mode Windowed.
+[2023.03.04-19.41.46:473][452]LogViewport: Scene viewport resized to 1007x869, mode Windowed.
+[2023.03.04-19.41.46:510][453]LogViewport: Scene viewport resized to 1006x869, mode Windowed.
+[2023.03.04-19.41.46:539][454]LogViewport: Scene viewport resized to 1003x869, mode Windowed.
+[2023.03.04-19.41.46:579][455]LogViewport: Scene viewport resized to 994x869, mode Windowed.
+[2023.03.04-19.41.46:619][456]LogViewport: Scene viewport resized to 990x869, mode Windowed.
+[2023.03.04-19.41.48:881][583]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.04-19.41.51:197][716]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.03.04-19.41.52:693][803]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.03.04-19.41.54:574][909]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.03.04-19.41.56:836][ 40]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.03.04-19.41.58:387][130]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.03.04-19.42.09:888][806]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.03.04-19.42.26:147][678]Cmd: DELETE
+[2023.03.04-19.42.26:147][678]Cmd: ACTOR DELETE
+[2023.03.04-19.42.26:149][678]LogEditorActor: Deleted Actor: Grabbable_SmallCube_C
+[2023.03.04-19.42.26:150][678]LogEditorActor: Deleted Actor: Grabbable_SmallCube_C
+[2023.03.04-19.42.26:150][678]LogEditorActor: Deleted Actor: Grabbable_SmallCube_C
+[2023.03.04-19.42.26:151][678]LogEditorActor: Deleted Actor: Grabbable_SmallCube_C
+[2023.03.04-19.42.26:152][678]LogEditorActor: Deleted Actor: Grabbable_SmallCube_C
+[2023.03.04-19.42.26:152][678]LogEditorActor: Deleted Actor: Grabbable_SmallCube_C
+[2023.03.04-19.42.26:153][678]LogEditorActor: Deleted Actor: Grabbable_SmallCube_C
+[2023.03.04-19.42.26:153][678]LogEditorActor: Deleted Actor: Grabbable_SmallCube_C
+[2023.03.04-19.42.26:189][678]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.03.04-19.42.26:211][678]LogEditorActor: Deleted 8 Actors (0.064 secs)
+[2023.03.04-19.42.34:376][868]Cmd: DELETE
+[2023.03.04-19.42.34:376][868]Cmd: ACTOR DELETE
+[2023.03.04-19.42.34:377][868]LogEditorActor: Deleted Actor: LightmassImportanceVolume
+[2023.03.04-19.42.34:378][868]LogEditorActor: Deleted Actor: NavMeshBoundsVolume
+[2023.03.04-19.42.34:378][868]LogEditorActor: Deleted Actor: NavModifierVolume
+[2023.03.04-19.42.34:405][868]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2023.03.04-19.42.34:413][868]LogEditorActor: Deleted 3 Actors (0.037 secs)
+[2023.03.04-19.42.34:421][868]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2023.03.04-19.42.34:421][868]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.04-19.42.41:789][276]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.04-19.42.46:616][546]Cmd: DELETE
+[2023.03.04-19.42.46:616][546]Cmd: ACTOR DELETE
+[2023.03.04-19.42.46:619][546]LogEditorActor: Deleted Actor: AmbientSound
+[2023.03.04-19.42.46:621][546]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.04-19.42.46:622][546]LogEditorActor: Deleted Actor: Pistol_C
+[2023.03.04-19.42.46:624][546]LogEditorActor: Deleted Actor: Pistol_C
+[2023.03.04-19.42.46:625][546]LogEditorActor: Deleted Actor: PlayerStart
+[2023.03.04-19.42.46:626][546]LogEditorActor: Deleted Actor: PointLight
+[2023.03.04-19.42.46:627][546]LogEditorActor: Deleted Actor: PointLight
+[2023.03.04-19.42.46:627][546]LogEditorActor: Deleted Actor: RecastNavMesh
+[2023.03.04-19.42.46:628][546]LogCrowdFollowing: Error: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2023.03.04-19.42.46:629][546]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.04-19.42.46:629][546]LogEditorActor: Deleted Actor: SkyLight
+[2023.03.04-19.42.46:629][546]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2023.03.04-19.42.46:630][546]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.04-19.42.46:631][546]LogEditorActor: Deleted Actor: SphereReflectionCapture
+[2023.03.04-19.42.46:631][546]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.04-19.42.46:632][546]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.04-19.42.46:632][546]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.04-19.42.46:632][546]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.04-19.42.46:632][546]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.04-19.42.46:633][546]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.04-19.42.46:633][546]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.04-19.42.46:633][546]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.04-19.42.46:658][546]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2023.03.04-19.42.46:663][546]LogEditorActor: Deleted 21 Actors (0.047 secs)
+[2023.03.04-19.42.53:330][710]Cmd: DELETE
+[2023.03.04-19.42.53:330][710]Cmd: ACTOR DELETE
+[2023.03.04-19.42.53:333][710]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.04-19.42.53:334][710]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.04-19.42.53:334][710]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.04-19.42.53:335][710]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.04-19.42.53:335][710]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.04-19.42.53:335][710]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.04-19.42.53:336][710]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.04-19.42.53:336][710]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.04-19.42.53:336][710]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.04-19.42.53:337][710]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.04-19.42.53:337][710]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.04-19.42.53:337][710]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.04-19.42.53:358][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.03.04-19.42.53:364][710]LogEditorActor: Deleted 12 Actors (0.034 secs)
+[2023.03.04-19.42.55:406][830]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.04-19.43.09:382][622]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2023.03.04-19.43.09:382][622]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2023.03.04-19.43.09:383][622]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.PlayerStart_0
+[2023.03.04-19.43.09:383][622]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.03.04-19.43.09:384][622]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.PlayerStart_0
+[2023.03.04-19.43.09:384][622]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.03.04-19.43.09:909][651]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2023.03.04-19.43.09:909][651]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2023.03.04-19.43.09:910][651]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.PlayerStart_1
+[2023.03.04-19.43.09:911][651]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.03.04-19.43.09:911][651]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.PlayerStart_1
+[2023.03.04-19.43.09:911][651]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.03.04-19.43.15:734][985]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.04-19.43.25:584][477]LogEditorViewport: Clicking Background
+[2023.03.04-19.43.26:381][489]Cmd: TRANSACTION UNDO
+[2023.03.04-19.43.26:381][489]LogEditorTransaction: Undo Clicking Background
+[2023.03.04-19.43.26:617][489]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.04-19.43.27:138][512]Cmd: TRANSACTION UNDO
+[2023.03.04-19.43.27:138][512]LogEditorTransaction: Undo Clicking on Elements
+[2023.03.04-19.43.30:946][726]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.04-19.43.33:282][829]LogEditorViewport: Clicking Background
+[2023.03.04-19.43.34:947][876]LogEditorViewport: Clicking Background
+[2023.03.04-19.43.35:552][912]LogEditorViewport: Clicking Background
+[2023.03.04-19.43.50:234][741]LogSlate: Took 0.000265 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.03.04-19.44.14:176][ 39]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.04-19.44.17:142][214]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.03.04-19.44.18:579][299]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.03.04-19.44.58:594][663]LogEditorViewport: Clicking Background
+[2023.03.04-19.44.58:983][681]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.03.04-19.44.59:000][681]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2023.03.04-19.44.59:002][681]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/VRTemplateMapFCBE9060457A1FBB9A413D9870CE1A49.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2023.03.04-19.44.59:011][681]LogFileHelpers: No new changes to save!
+[2023.03.04-19.44.59:028][681]AssetCheck: New page: Asset Save: VRTemplateMap
+[2023.03.04-19.44.59:028][681]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2023.03.04-19.45.57:345][ 55]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.03.04-19.45.57:367][ 55]LogContentBrowser: Creating deferred item: NewFolder
+[2023.03.04-19.45.57:386][ 56]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.03.04-19.46.09:168][762]LogContentBrowser: Attempting asset rename: NewFolder -> Game_Objects
+[2023.03.04-19.46.09:169][762]LogContentBrowser: End creating deferred item NewFolder
+[2023.03.04-19.46.17:499][208]LogSavePackage: Moving output files for package: /Game/Game_Objects/Earth_TEXTURE_CM
+[2023.03.04-19.46.17:499][208]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/Earth_TEXTURE_CM1EC5362746B04A9E6C825AA6FEE1D941.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/Game_Objects/Earth_TEXTURE_CM.uasset'
+[2023.03.04-19.46.17:501][208]LogSavePackage: Moving output files for package: /Game/Game_Objects/Earth_Skeleton
+[2023.03.04-19.46.17:501][208]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/Earth_Skeleton18C5292F4E7CE282A378ECB7E54A8A7F.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/Game_Objects/Earth_Skeleton.uasset'
+[2023.03.04-19.46.17:503][208]LogSavePackage: Moving output files for package: /Game/Game_Objects/Earth_PhysicsAsset
+[2023.03.04-19.46.17:503][208]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/Earth_PhysicsAssetA39EA31E49D5AE0593D3B79CB1C59E1A.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/Game_Objects/Earth_PhysicsAsset.uasset'
+[2023.03.04-19.46.17:506][208]LogSavePackage: Moving output files for package: /Game/Game_Objects/Earth_MATERIAL
+[2023.03.04-19.46.17:506][208]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/Earth_MATERIAL68921681406C29722824FB863D48C643.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/Game_Objects/Earth_MATERIAL.uasset'
+[2023.03.04-19.46.17:507][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Objects/Earth" FILE="../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/Game_Objects/Earth.uasset" SILENT=true
+[2023.03.04-19.46.17:514][208]LogSavePackage: Moving output files for package: /Game/Game_Objects/Earth
+[2023.03.04-19.46.17:514][208]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/Earth6EE6E19A4E18BAC8C66E2F881F2B6512.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/Game_Objects/Earth.uasset'
+[2023.03.04-19.46.17:515][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Earth" FILE="../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/Earth.uasset" SILENT=true
+[2023.03.04-19.46.17:517][208]LogSavePackage: Moving output files for package: /Game/Earth
+[2023.03.04-19.46.17:517][208]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/EarthE7CC0A824DDD910A322B0AB5620EA50D.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/Earth.uasset'
+[2023.03.04-19.46.17:588][208]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.03.04-19.46.17:615][208]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.03.04-19.46.17:636][208]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2023.03.04-19.46.17:691][208]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.04-19.46.17:691][208]LogContentValidation: Display: Validating PhysicsAsset /Game/Game_Objects/Earth_PhysicsAsset.Earth_PhysicsAsset
+[2023.03.04-19.46.17:691][208]LogContentValidation: Display: Validating Skeleton /Game/Game_Objects/Earth_Skeleton.Earth_Skeleton
+[2023.03.04-19.46.17:691][208]LogContentValidation: Display: Validating Material /Game/Game_Objects/Earth_MATERIAL.Earth_MATERIAL
+[2023.03.04-19.46.17:691][208]LogContentValidation: Display: Validating SkeletalMesh /Game/Game_Objects/Earth.Earth
+[2023.03.04-19.46.17:691][208]LogContentValidation: Display: Validating Texture2D /Game/Game_Objects/Earth_TEXTURE_CM.Earth_TEXTURE_CM
+[2023.03.04-19.46.17:691][208]LogContentValidation: Display: Validating ObjectRedirector /Game/Earth.Earth
+[2023.03.04-19.46.18:399][248]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2023.03.04-19.46.21:279][394]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.03.04-19.46.21:315][394]LogContentBrowser: Creating deferred item: NewFolder
+[2023.03.04-19.46.21:330][395]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.03.04-19.46.22:970][494]LogContentBrowser: Attempting asset rename: NewFolder -> Earth
+[2023.03.04-19.46.22:971][494]LogContentBrowser: End creating deferred item NewFolder
+[2023.03.04-19.46.27:784][755]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Earth" FILE="../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/Earth.uasset" SILENT=true
+[2023.03.04-19.46.27:785][755]LogSavePackage: Moving output files for package: /Game/Earth
+[2023.03.04-19.46.27:786][755]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/EarthA21480AE44E15101F5A63EB789E4ADB6.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/Earth.uasset'
+[2023.03.04-19.46.27:924][755]LogSavePackage: Moving output files for package: /Game/Game_Objects/Earth/Earth_TEXTURE_CM
+[2023.03.04-19.46.27:924][755]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/Earth_TEXTURE_CM13DA10354AF31E8EA82028A5D74372CC.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/Game_Objects/Earth/Earth_TEXTURE_CM.uasset'
+[2023.03.04-19.46.27:929][755]LogSavePackage: Moving output files for package: /Game/Game_Objects/Earth/Earth_Skeleton
+[2023.03.04-19.46.27:929][755]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/Earth_Skeleton5F9A1E234DC30E29DA2793AC6472E93C.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/Game_Objects/Earth/Earth_Skeleton.uasset'
+[2023.03.04-19.46.27:932][755]LogSavePackage: Moving output files for package: /Game/Game_Objects/Earth/Earth_PhysicsAsset
+[2023.03.04-19.46.27:933][755]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/Earth_PhysicsAssetF2F5CB44433F8904009D9B9FE958B50F.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/Game_Objects/Earth/Earth_PhysicsAsset.uasset'
+[2023.03.04-19.46.27:935][755]LogSavePackage: Moving output files for package: /Game/Game_Objects/Earth/Earth_MATERIAL
+[2023.03.04-19.46.27:935][755]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/Earth_MATERIAL66DBD5944218ADF514BCD2B79691DB66.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/Game_Objects/Earth/Earth_MATERIAL.uasset'
+[2023.03.04-19.46.27:936][755]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Objects/Earth/Earth" FILE="../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/Game_Objects/Earth/Earth.uasset" SILENT=true
+[2023.03.04-19.46.27:944][755]LogSavePackage: Moving output files for package: /Game/Game_Objects/Earth/Earth
+[2023.03.04-19.46.27:944][755]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/EarthC61108A841B3EB61C071909F2501703F.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/Game_Objects/Earth/Earth.uasset'
+[2023.03.04-19.46.28:029][755]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.03.04-19.46.28:057][755]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.03.04-19.46.28:082][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2023.03.04-19.46.28:122][755]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.04-19.46.28:122][755]LogContentValidation: Display: Validating PhysicsAsset /Game/Game_Objects/Earth/Earth_PhysicsAsset.Earth_PhysicsAsset
+[2023.03.04-19.46.28:122][755]LogContentValidation: Display: Validating Skeleton /Game/Game_Objects/Earth/Earth_Skeleton.Earth_Skeleton
+[2023.03.04-19.46.28:122][755]LogContentValidation: Display: Validating Material /Game/Game_Objects/Earth/Earth_MATERIAL.Earth_MATERIAL
+[2023.03.04-19.46.28:122][755]LogContentValidation: Display: Validating SkeletalMesh /Game/Game_Objects/Earth/Earth.Earth
+[2023.03.04-19.46.28:122][755]LogContentValidation: Display: Validating Texture2D /Game/Game_Objects/Earth/Earth_TEXTURE_CM.Earth_TEXTURE_CM
+[2023.03.04-19.46.28:122][755]LogContentValidation: Display: Validating ObjectRedirector /Game/Earth.Earth
+[2023.03.04-19.46.30:309][869]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.03.04-19.46.30:344][869]LogContentBrowser: Creating deferred item: NewFolder
+[2023.03.04-19.46.30:360][870]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.03.04-19.46.31:665][949]LogContentBrowser: Attempting asset rename: NewFolder -> Sun
+[2023.03.04-19.46.31:666][949]LogContentBrowser: End creating deferred item NewFolder
+[2023.03.04-19.46.33:652][ 58]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.03.04-19.46.33:673][ 58]LogContentBrowser: Creating deferred item: NewFolder
+[2023.03.04-19.46.33:692][ 59]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.03.04-19.46.35:002][138]LogContentBrowser: Attempting asset rename: NewFolder -> Moon
+[2023.03.04-19.46.35:003][138]LogContentBrowser: End creating deferred item NewFolder
+[2023.03.04-19.46.37:036][248]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.03.04-19.46.37:054][248]LogContentBrowser: Creating deferred item: NewFolder
+[2023.03.04-19.46.37:070][249]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.03.04-19.46.41:011][486]LogContentBrowser: Attempting asset rename: NewFolder -> Comets
+[2023.03.04-19.46.41:012][486]LogContentBrowser: End creating deferred item NewFolder
+[2023.03.04-19.46.44:301][668]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.03.04-19.46.44:322][668]LogContentBrowser: Creating deferred item: NewFolder
+[2023.03.04-19.46.44:340][669]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.03.04-19.46.46:494][799]LogContentBrowser: Attempting asset rename: NewFolder -> Plattforms
+[2023.03.04-19.46.46:495][799]LogContentBrowser: End creating deferred item NewFolder
+[2023.03.04-19.46.51:087][ 73]LogContentBrowser: Attempting asset rename: Plattforms -> Platforms
+[2023.03.04-19.46.55:331][305]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.03.04-19.46.55:351][305]LogContentBrowser: Creating deferred item: NewFolder
+[2023.03.04-19.46.55:369][306]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.03.04-19.47.05:647][923]LogContentBrowser: Attempting asset rename: NewFolder -> Cannon
+[2023.03.04-19.47.05:648][923]LogContentBrowser: End creating deferred item NewFolder
+[2023.03.04-19.47.48:528][474]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.03.04-19.47.48:545][474]LogContentBrowser: Creating deferred item: NewFolder
+[2023.03.04-19.47.48:562][475]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.03.04-19.48.20:233][373]LogContentBrowser: Attempting asset rename: NewFolder -> Space-Env
+[2023.03.04-19.48.20:233][373]LogContentBrowser: End creating deferred item NewFolder
+[2023.03.04-19.49.24:225][168]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.03.04-19.49.24:246][168]LogContentBrowser: Creating deferred item: NewFolder
+[2023.03.04-19.49.24:279][170]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.03.04-19.49.26:467][302]LogContentBrowser: Attempting asset rename: NewFolder -> Hands
+[2023.03.04-19.49.26:468][302]LogContentBrowser: End creating deferred item NewFolder
+[2023.03.04-19.49.40:381][112]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.03.04-19.49.40:402][112]LogContentBrowser: Creating deferred item: NewFolder
+[2023.03.04-19.49.40:417][113]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.03.04-19.49.42:306][227]LogContentBrowser: Attempting asset rename: NewFolder -> Audio
+[2023.03.04-19.49.42:307][227]LogContentBrowser: End creating deferred item NewFolder
+[2023.03.04-19.50.42:570][750]LogSlate: Window 'Source Control Login' being destroyed
+[2023.03.04-19.50.45:381][905]LogEditorViewport: Clicking Background
+[2023.03.04-19.51.00:464][784]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2023.03.04-19.51.00:464][784]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2023.03.04-19.51.02:199][880]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA00_StreamCache_Ver5027_MEM_65536MaxChnkSize_0000000 wave FirstPersonTemplateWeaponFire02...
+[2023.03.04-19.51.02:215][880]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 300260 while cooking SoundWave /Game/FPWeapon/Audio/FirstPersonTemplateWeaponFire02.FirstPersonTemplateWeaponFire02.
+[2023.03.04-19.51.02:215][880]LogAudio: Display: Chunk size for SoundWave /Game/FPWeapon/Audio/FirstPersonTemplateWeaponFire02.FirstPersonTemplateWeaponFire02: 262144
+[2023.03.04-19.51.02:223][880]LogMaterial: Display: Missing cached shadermap for BaseMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 9A159C65A122240ABB23AE0ADCDE46711745750F), compiling. 
+[2023.03.04-19.51.02:400][880]LogTexture: Display: Building textures: /Game/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber.T_ML_FineRubber (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.04-19.51.04:544][880]LogSavePackage: Moving output files for package: /Game/Game_Objects/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D
+[2023.03.04-19.51.04:544][880]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/T_ML_Rubber_Blue_01_DD978474A49FFDF40F0A50C990A49A2A6.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/Game_Objects/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset'
+[2023.03.04-19.51.04:548][880]LogSavePackage: Moving output files for package: /Game/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D
+[2023.03.04-19.51.04:549][880]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/T_ML_Rubber_Blue_01_D101DE9EF406F9989449FA39C8D0CCD64.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset'
+[2023.03.04-19.51.04:609][880]LogSavePackage: Moving output files for package: /Game/Game_Objects/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N
+[2023.03.04-19.51.04:609][880]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/T_ML_Rubber_Blue_01_N6E0A43414BA440FBE81299B0E660B8C3.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/Game_Objects/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset'
+[2023.03.04-19.51.04:612][880]LogSavePackage: Moving output files for package: /Game/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N
+[2023.03.04-19.51.04:613][880]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/T_ML_Rubber_Blue_01_N1167533D4E4059A53C8C38872938288A.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset'
+[2023.03.04-19.51.04:618][880]LogSavePackage: Moving output files for package: /Game/Game_Objects/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4
+[2023.03.04-19.51.04:618][880]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/ML_GlossyBlack_Latex_UE4B004FD5B4B518CA0AB1B8EBAEA693517.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/Game_Objects/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset'
+[2023.03.04-19.51.04:621][880]LogSavePackage: Moving output files for package: /Game/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4
+[2023.03.04-19.51.04:622][880]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/ML_GlossyBlack_Latex_UE4BB6F99D44E12B037F19C00A718302D3B.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset'
+[2023.03.04-19.51.04:625][880]LogSavePackage: Moving output files for package: /Game/Game_Objects/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige
+[2023.03.04-19.51.04:625][880]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/ML_Plastic_Shiny_Beige790B425C47EBD753F69E5B83652EB153.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/Game_Objects/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset'
+[2023.03.04-19.51.04:628][880]LogSavePackage: Moving output files for package: /Game/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige
+[2023.03.04-19.51.04:628][880]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/ML_Plastic_Shiny_Beige02ED38FE40D32843FDB05C9934EBF68F.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset'
+[2023.03.04-19.51.04:631][880]LogSavePackage: Moving output files for package: /Game/Game_Objects/FPWeapon/Materials/MaterialLayers/ML_Screen
+[2023.03.04-19.51.04:631][880]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/ML_Screen2907D80C49B828A1D31A8590E49B93DC.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/Game_Objects/FPWeapon/Materials/MaterialLayers/ML_Screen.uasset'
+[2023.03.04-19.51.04:634][880]LogSavePackage: Moving output files for package: /Game/FPWeapon/Materials/MaterialLayers/ML_Screen
+[2023.03.04-19.51.04:636][880]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/ML_ScreenB1BFC8744514328F834E7C91023E5DF7.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/FPWeapon/Materials/MaterialLayers/ML_Screen.uasset'
+[2023.03.04-19.51.04:750][880]LogSavePackage: Moving output files for package: /Game/Game_Objects/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01
+[2023.03.04-19.51.04:750][880]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/T_ML_Aluminum01931B3A8841B469833584F7A74CB1F9E0.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/Game_Objects/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uasset'
+[2023.03.04-19.51.04:753][880]LogSavePackage: Moving output files for package: /Game/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01
+[2023.03.04-19.51.04:754][880]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/T_ML_Aluminum016D81BBBB47781272EC43F19647A95F0C.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uasset'
+[2023.03.04-19.51.04:820][880]LogSavePackage: Moving output files for package: /Game/Game_Objects/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N
+[2023.03.04-19.51.04:820][880]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/T_ML_Aluminum01_N42AC549E4D8A8B0E5AC3A285978E6163.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/Game_Objects/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset'
+[2023.03.04-19.51.04:823][880]LogSavePackage: Moving output files for package: /Game/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N
+[2023.03.04-19.51.04:824][880]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/T_ML_Aluminum01_N9CD557764B8F518C2A035A8D065E4618.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset'
+[2023.03.04-19.51.04:829][880]LogSavePackage: Moving output files for package: /Game/Game_Objects/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4
+[2023.03.04-19.51.04:830][880]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/ML_SoftMetal_UE483EAE096436DD10553E4029F4EA59F4F.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/Game_Objects/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset'
+[2023.03.04-19.51.04:832][880]LogSavePackage: Moving output files for package: /Game/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4
+[2023.03.04-19.51.04:833][880]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/ML_SoftMetal_UE400579BCE484C27A8EF500AB9039D0FF4.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset'
+[2023.03.04-19.51.04:843][880]LogSavePackage: Moving output files for package: /Game/Game_Objects/FPWeapon/Textures/T_FPGun_M
+[2023.03.04-19.51.04:843][880]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/T_FPGun_M6138AB044A684F5DA8136281F169D16F.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/Game_Objects/FPWeapon/Textures/T_FPGun_M.uasset'
+[2023.03.04-19.51.04:846][880]LogSavePackage: Moving output files for package: /Game/FPWeapon/Textures/T_FPGun_M
+[2023.03.04-19.51.04:846][880]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/T_FPGun_M1219444B49A5771953B226969D0FB582.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/FPWeapon/Textures/T_FPGun_M.uasset'
+[2023.03.04-19.51.04:879][880]LogSavePackage: Moving output files for package: /Game/Game_Objects/FPWeapon/Textures/T_FPGun_N
+[2023.03.04-19.51.04:879][880]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/T_FPGun_NABC2C07C4845FA1881BCDC80A6945E55.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/Game_Objects/FPWeapon/Textures/T_FPGun_N.uasset'
+[2023.03.04-19.51.04:881][880]LogSavePackage: Moving output files for package: /Game/FPWeapon/Textures/T_FPGun_N
+[2023.03.04-19.51.04:882][880]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/T_FPGun_N69A3EB4B42FE09F00CA7DFAA6B799D92.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/FPWeapon/Textures/T_FPGun_N.uasset'
+[2023.03.04-19.51.04:890][880]LogSavePackage: Moving output files for package: /Game/Game_Objects/FPWeapon/Materials/M_FPGun
+[2023.03.04-19.51.04:890][880]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/M_FPGun65995C4F4F3A982EB59399B3B7E84A93.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/Game_Objects/FPWeapon/Materials/M_FPGun.uasset'
+[2023.03.04-19.51.04:892][880]LogSavePackage: Moving output files for package: /Game/FPWeapon/Materials/M_FPGun
+[2023.03.04-19.51.04:893][880]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/M_FPGun16D907114B231864D114148ECF98F650.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/FPWeapon/Materials/M_FPGun.uasset'
+[2023.03.04-19.51.04:898][880]LogSavePackage: Moving output files for package: /Game/Game_Objects/FPWeapon/Mesh/SK_FPGun_Physics
+[2023.03.04-19.51.04:898][880]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/SK_FPGun_Physics17717AC9476BC4735BA043AA212A1E2F.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/Game_Objects/FPWeapon/Mesh/SK_FPGun_Physics.uasset'
+[2023.03.04-19.51.04:901][880]LogSavePackage: Moving output files for package: /Game/FPWeapon/Mesh/SK_FPGun_Physics
+[2023.03.04-19.51.04:902][880]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/SK_FPGun_PhysicsB4543EFA404A41E2A855B58873CB7C2E.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/FPWeapon/Mesh/SK_FPGun_Physics.uasset'
+[2023.03.04-19.51.04:906][880]LogSavePackage: Moving output files for package: /Game/Game_Objects/FPWeapon/Mesh/SK_FPGun_Skeleton
+[2023.03.04-19.51.04:906][880]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/SK_FPGun_Skeleton163A1D784AC35EEDF33F41AF34F8E002.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/Game_Objects/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset'
+[2023.03.04-19.51.04:908][880]LogSavePackage: Moving output files for package: /Game/FPWeapon/Mesh/SK_FPGun_Skeleton
+[2023.03.04-19.51.04:909][880]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/SK_FPGun_Skeleton38D350244A10BB32456321B4653F4FEC.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset'
+[2023.03.04-19.51.04:958][880]LogSavePackage: Moving output files for package: /Game/Game_Objects/FPWeapon/Mesh/SK_FPGun
+[2023.03.04-19.51.04:958][880]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/SK_FPGun1C53D7E24D200C3159330E83A36EE772.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/Game_Objects/FPWeapon/Mesh/SK_FPGun.uasset'
+[2023.03.04-19.51.04:961][880]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FPWeapon/Mesh/SK_FPGun" FILE="../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/FPWeapon/Mesh/SK_FPGun.uasset" SILENT=true
+[2023.03.04-19.51.04:961][880]LogSavePackage: Moving output files for package: /Game/FPWeapon/Mesh/SK_FPGun
+[2023.03.04-19.51.04:962][880]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/SK_FPGun98DB3F8641CDA6E21C6402AB293FD85C.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/FPWeapon/Mesh/SK_FPGun.uasset'
+[2023.03.04-19.51.04:965][880]LogSavePackage: Moving output files for package: /Game/Game_Objects/FPWeapon/Audio/FirstPersonTemplateWeaponFire02
+[2023.03.04-19.51.04:966][880]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/FirstPersonTemplateWeaponFire029A7CCB7047371CD48E31B3A121C4D354.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/Game_Objects/FPWeapon/Audio/FirstPersonTemplateWeaponFire02.uasset'
+[2023.03.04-19.51.04:968][880]LogSavePackage: Moving output files for package: /Game/FPWeapon/Audio/FirstPersonTemplateWeaponFire02
+[2023.03.04-19.51.04:969][880]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/FirstPersonTemplateWeaponFire02A0FBBEDF42B7A839029407837D39CD13.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/FPWeapon/Audio/FirstPersonTemplateWeaponFire02.uasset'
+[2023.03.04-19.51.04:973][880]LogSavePackage: Moving output files for package: /Game/Game_Objects/FPWeapon/Materials/FirstPersonProjectileMaterial
+[2023.03.04-19.51.04:973][880]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/FirstPersonProjectileMaterialFCFAC190468F1BE43F72C3BBC01E67FC.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/Game_Objects/FPWeapon/Materials/FirstPersonProjectileMaterial.uasset'
+[2023.03.04-19.51.04:976][880]LogSavePackage: Moving output files for package: /Game/FPWeapon/Materials/FirstPersonProjectileMaterial
+[2023.03.04-19.51.04:977][880]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/FirstPersonProjectileMaterial0C7DD5534111FA45ED150EA5BF1B74EC.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/FPWeapon/Materials/FirstPersonProjectileMaterial.uasset'
+[2023.03.04-19.51.04:982][880]LogSavePackage: Moving output files for package: /Game/Game_Objects/FPWeapon/Materials/BaseMaterial
+[2023.03.04-19.51.04:982][880]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/BaseMaterialC62B0A7C408DDEBBDBF20496CDD7E84F.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/Game_Objects/FPWeapon/Materials/BaseMaterial.uasset'
+[2023.03.04-19.51.04:984][880]LogSavePackage: Moving output files for package: /Game/FPWeapon/Materials/BaseMaterial
+[2023.03.04-19.51.04:985][880]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/BaseMaterial505D32C0425CE3373A939D90328A0036.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/FPWeapon/Materials/BaseMaterial.uasset'
+[2023.03.04-19.51.05:064][880]LogSavePackage: Moving output files for package: /Game/Game_Objects/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber
+[2023.03.04-19.51.05:064][880]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/T_ML_FineRubberA4F21ECA41BD717BB43BE8ADB5FA9843.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/Game_Objects/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber.uasset'
+[2023.03.04-19.51.05:066][880]LogSavePackage: Moving output files for package: /Game/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber
+[2023.03.04-19.51.05:067][880]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/T_ML_FineRubber1E8B977441041267A15EDA97D6C1359E.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber.uasset'
+[2023.03.04-19.51.05:070][880]LogSavePackage: Moving output files for package: /Game/Game_Objects/FPWeapon/Mesh/SK_FPGun_PhysicsAsset
+[2023.03.04-19.51.05:070][880]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/SK_FPGun_PhysicsAsset4FE297814FF45BD136DC4F8B948B687C.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/Game_Objects/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uasset'
+[2023.03.04-19.51.05:072][880]LogSavePackage: Moving output files for package: /Game/FPWeapon/Mesh/SK_FPGun_PhysicsAsset
+[2023.03.04-19.51.05:073][880]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/SK_FPGun_PhysicsAsset91046F5840808FE0B8E6D7B8CAEAD24B.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uasset'
+[2023.03.04-19.51.05:079][880]LogSavePackage: Moving output files for package: /Game/Game_Objects/FPWeapon/Mesh/FirstPersonProjectileMesh
+[2023.03.04-19.51.05:079][880]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/FirstPersonProjectileMeshC47CF47043A80CA02242A9A9D6ADE53B.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/Game_Objects/FPWeapon/Mesh/FirstPersonProjectileMesh.uasset'
+[2023.03.04-19.51.05:081][880]LogSavePackage: Moving output files for package: /Game/FPWeapon/Mesh/FirstPersonProjectileMesh
+[2023.03.04-19.51.05:081][880]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/FirstPersonProjectileMeshA89890C442843B3743BCD88624BFE3C0.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/FPWeapon/Mesh/FirstPersonProjectileMesh.uasset'
+[2023.03.04-19.51.10:142][880]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.04-19.51.10:142][880]LogContentValidation: Display: Validating SoundWave /Game/Game_Objects/FPWeapon/Audio/FirstPersonTemplateWeaponFire02.FirstPersonTemplateWeaponFire02
+[2023.03.04-19.51.10:142][880]LogContentValidation: Display: Validating Texture2D /Game/Game_Objects/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.T_ML_Rubber_Blue_01_D
+[2023.03.04-19.51.10:142][880]LogContentValidation: Display: Validating Texture2D /Game/Game_Objects/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.T_ML_Rubber_Blue_01_N
+[2023.03.04-19.51.10:142][880]LogContentValidation: Display: Validating MaterialFunction /Game/Game_Objects/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.ML_GlossyBlack_Latex_UE4
+[2023.03.04-19.51.10:142][880]LogContentValidation: Display: Validating MaterialFunction /Game/Game_Objects/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.ML_Plastic_Shiny_Beige
+[2023.03.04-19.51.10:142][880]LogContentValidation: Display: Validating MaterialFunction /Game/Game_Objects/FPWeapon/Materials/MaterialLayers/ML_Screen.ML_Screen
+[2023.03.04-19.51.10:142][880]LogContentValidation: Display: Validating Texture2D /Game/Game_Objects/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.T_ML_Aluminum01
+[2023.03.04-19.51.10:142][880]LogContentValidation: Display: Validating Texture2D /Game/Game_Objects/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.T_ML_Aluminum01_N
+[2023.03.04-19.51.10:142][880]LogContentValidation: Display: Validating MaterialFunction /Game/Game_Objects/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.ML_SoftMetal_UE4
+[2023.03.04-19.51.10:142][880]LogContentValidation: Display: Validating Texture2D /Game/Game_Objects/FPWeapon/Textures/T_FPGun_M.T_FPGun_M
+[2023.03.04-19.51.10:142][880]LogContentValidation: Display: Validating Texture2D /Game/Game_Objects/FPWeapon/Textures/T_FPGun_N.T_FPGun_N
+[2023.03.04-19.51.10:142][880]LogContentValidation: Display: Validating Material /Game/Game_Objects/FPWeapon/Materials/M_FPGun.M_FPGun
+[2023.03.04-19.51.10:142][880]LogContentValidation: Display: Validating PhysicsAsset /Game/Game_Objects/FPWeapon/Mesh/SK_FPGun_Physics.SK_FPGun_Physics
+[2023.03.04-19.51.10:142][880]LogContentValidation: Display: Validating Skeleton /Game/Game_Objects/FPWeapon/Mesh/SK_FPGun_Skeleton.SK_FPGun_Skeleton
+[2023.03.04-19.51.10:142][880]LogContentValidation: Display: Validating SkeletalMesh /Game/Game_Objects/FPWeapon/Mesh/SK_FPGun.SK_FPGun
+[2023.03.04-19.51.10:142][880]LogContentValidation: Display: Validating ObjectRedirector /Game/FPWeapon/Mesh/SK_FPGun.SK_FPGun1
+[2023.03.04-19.51.10:142][880]LogContentValidation: Display: Validating ObjectRedirector /Game/FPWeapon/Mesh/FirstPersonProjectileMesh.FirstPersonProjectileMesh
+[2023.03.04-19.51.10:143][880]LogContentValidation: Display: Validating ObjectRedirector /Game/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.SK_FPGun_PhysicsAsset
+[2023.03.04-19.51.10:143][880]LogContentValidation: Display: Validating ObjectRedirector /Game/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber.T_ML_FineRubber
+[2023.03.04-19.51.10:143][880]LogContentValidation: Display: Validating ObjectRedirector /Game/FPWeapon/Materials/BaseMaterial.BaseMaterial
+[2023.03.04-19.51.10:143][880]LogContentValidation: Display: Validating ObjectRedirector /Game/FPWeapon/Materials/FirstPersonProjectileMaterial.FirstPersonProjectileMaterial
+[2023.03.04-19.51.10:143][880]LogContentValidation: Display: Validating ObjectRedirector /Game/FPWeapon/Audio/FirstPersonTemplateWeaponFire02.FirstPersonTemplateWeaponFire02
+[2023.03.04-19.51.10:143][880]LogContentValidation: Display: Validating ObjectRedirector /Game/FPWeapon/Mesh/SK_FPGun.SK_FPGun
+[2023.03.04-19.51.10:143][880]LogContentValidation: Display: Validating ObjectRedirector /Game/FPWeapon/Mesh/SK_FPGun_Skeleton.SK_FPGun_Skeleton
+[2023.03.04-19.51.10:143][880]LogContentValidation: Display: Validating ObjectRedirector /Game/FPWeapon/Mesh/SK_FPGun_Physics.SK_FPGun_Physics
+[2023.03.04-19.51.10:143][880]LogContentValidation: Display: Validating ObjectRedirector /Game/FPWeapon/Materials/M_FPGun.M_FPGun
+[2023.03.04-19.51.10:143][880]LogContentValidation: Display: Validating ObjectRedirector /Game/FPWeapon/Textures/T_FPGun_N.T_FPGun_N
+[2023.03.04-19.51.10:143][880]LogContentValidation: Display: Validating ObjectRedirector /Game/FPWeapon/Textures/T_FPGun_M.T_FPGun_M
+[2023.03.04-19.51.10:143][880]LogContentValidation: Display: Validating ObjectRedirector /Game/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.ML_SoftMetal_UE4
+[2023.03.04-19.51.10:143][880]LogContentValidation: Display: Validating ObjectRedirector /Game/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.T_ML_Aluminum01_N
+[2023.03.04-19.51.10:143][880]LogContentValidation: Display: Validating ObjectRedirector /Game/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.T_ML_Aluminum01
+[2023.03.04-19.51.10:143][880]LogContentValidation: Display: Validating ObjectRedirector /Game/FPWeapon/Materials/MaterialLayers/ML_Screen.ML_Screen
+[2023.03.04-19.51.10:143][880]LogContentValidation: Display: Validating ObjectRedirector /Game/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.ML_Plastic_Shiny_Beige
+[2023.03.04-19.51.10:143][880]LogContentValidation: Display: Validating ObjectRedirector /Game/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.ML_GlossyBlack_Latex_UE4
+[2023.03.04-19.51.10:143][880]LogContentValidation: Display: Validating ObjectRedirector /Game/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.T_ML_Rubber_Blue_01_N
+[2023.03.04-19.51.10:143][880]LogContentValidation: Display: Validating ObjectRedirector /Game/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.T_ML_Rubber_Blue_01_D
+[2023.03.04-19.51.10:143][880]LogContentValidation: Display: Validating StaticMesh /Game/Game_Objects/FPWeapon/Mesh/FirstPersonProjectileMesh.FirstPersonProjectileMesh
+[2023.03.04-19.51.10:143][880]LogContentValidation: Display: Validating PhysicsAsset /Game/Game_Objects/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.SK_FPGun_PhysicsAsset
+[2023.03.04-19.51.10:143][880]LogContentValidation: Display: Validating Texture2D /Game/Game_Objects/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber.T_ML_FineRubber
+[2023.03.04-19.51.10:143][880]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Game_Objects/FPWeapon/Materials/FirstPersonProjectileMaterial.FirstPersonProjectileMaterial
+[2023.03.04-19.51.10:143][880]LogContentValidation: Display: Validating Material /Game/Game_Objects/FPWeapon/Materials/BaseMaterial.BaseMaterial
+[2023.03.04-19.51.13:958][ 83]LogProfilingDebugging: Allocated a 990 x 869 texture for HMD canvas layer
+[2023.03.04-19.51.20:651][453]LogShaderCompilers: Display: ================================================
+[2023.03.04-19.51.20:651][453]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.04-19.51.20:651][453]LogShaderCompilers: Display: Total job queries 147, among them cache hits 26 (17.69%)
+[2023.03.04-19.51.20:651][453]LogShaderCompilers: Display: Tracking 74 distinct input hashes that result in 38 distinct outputs (51.35%)
+[2023.03.04-19.51.20:651][453]LogShaderCompilers: Display: RAM used: 0.20 MB (0.00 GB) of 716.80 MB (0.70 GB) budget. Usage: 0.03%
+[2023.03.04-19.51.20:651][453]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.04-19.51.20:651][453]LogShaderCompilers: Display: Shaders Compiled: 93
+[2023.03.04-19.51.20:651][453]LogShaderCompilers: Display: Jobs assigned 108, completed 76 (70.37%)
+[2023.03.04-19.51.20:651][453]LogShaderCompilers: Display: Average time worker was idle: 54.38 s
+[2023.03.04-19.51.20:651][453]LogShaderCompilers: Display: Time job spent in pending queue: average 0.01 s, longest 0.10 s
+[2023.03.04-19.51.20:651][453]LogShaderCompilers: Display: Job execution time: average 35.76 s, max 94.00 s
+[2023.03.04-19.51.20:651][453]LogShaderCompilers: Display: Job life time (pending + execution): average 35.77 s, max 94.01
+[2023.03.04-19.51.20:651][453]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 182.47 s
+[2023.03.04-19.51.20:651][453]LogShaderCompilers: Display: Jobs were issued in 37 batches (15 local, 22 distributed), average 2.92 jobs/batch (1.00 jobs/local batch. 4.23 jobs/distributed batch)
+[2023.03.04-19.51.20:651][453]LogShaderCompilers: Display: Average processing rate: 0.42 jobs/sec
+[2023.03.04-19.51.20:651][453]LogShaderCompilers: Display: Effective parallelization: 1.06 (times faster than compiling all shaders on one thread). Distributed compilation was used.
+[2023.03.04-19.51.20:652][453]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.03.04-19.51.20:652][453]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    7 times, average 4.79 sec, max 7.29 sec, min 2.31 sec)
+[2023.03.04-19.51.20:652][453]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyLQ (compiled    1 times, average 4.30 sec, max 4.30 sec, min 4.30 sec)
+[2023.03.04-19.51.20:652][453]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    1 times, average 4.18 sec, max 4.18 sec, min 4.18 sec)
+[2023.03.04-19.51.20:652][453]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    5 times, average 4.15 sec, max 7.22 sec, min 2.11 sec)
+[2023.03.04-19.51.20:652][453]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    4 times, average 4.05 sec, max 4.48 sec, min 3.24 sec)
+[2023.03.04-19.51.20:652][453]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.03.04-19.51.20:652][453]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 17.31% of total time (compiled    7 times, average 4.79 sec, max 7.29 sec, min 2.31 sec)
+[2023.03.04-19.51.20:652][453]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 11.18% of total time (compiled    9 times, average 2.41 sec, max 4.78 sec, min 0.80 sec)
+[2023.03.04-19.51.20:652][453]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 10.73% of total time (compiled    5 times, average 4.15 sec, max 7.22 sec, min 2.11 sec)
+[2023.03.04-19.51.20:652][453]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 8.37% of total time (compiled    4 times, average 4.05 sec, max 4.48 sec, min 3.24 sec)
+[2023.03.04-19.51.20:652][453]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy - 8.18% of total time (compiled    4 times, average 3.96 sec, max 5.21 sec, min 2.20 sec)
+[2023.03.04-19.51.20:652][453]LogShaderCompilers: Display: ================================================
+[2023.03.04-19.51.28:069][717]LogSavePackage: Moving output files for package: /Game/FPWeapon/Audio/FirstPersonTemplateWeaponFire02
+[2023.03.04-19.51.28:071][717]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/FirstPersonTemplateWeaponFire02D78835364FE844DCDAC8079E11CFDE0B.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/FPWeapon/Audio/FirstPersonTemplateWeaponFire02.uasset'
+[2023.03.04-19.51.28:075][717]LogSavePackage: Moving output files for package: /Game/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D
+[2023.03.04-19.51.28:078][717]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/T_ML_Rubber_Blue_01_D61B672CD4F40546F4BFA66982FC73602.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset'
+[2023.03.04-19.51.28:083][717]LogSavePackage: Moving output files for package: /Game/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N
+[2023.03.04-19.51.28:085][717]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/T_ML_Rubber_Blue_01_N6F2950484D27F0B9FBB602AEE0C8A63D.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset'
+[2023.03.04-19.51.28:090][717]LogSavePackage: Moving output files for package: /Game/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4
+[2023.03.04-19.51.28:092][717]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/ML_GlossyBlack_Latex_UE452C777BB4B73BDD250D463BAFE1086EF.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset'
+[2023.03.04-19.51.28:097][717]LogSavePackage: Moving output files for package: /Game/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige
+[2023.03.04-19.51.28:098][717]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/ML_Plastic_Shiny_Beige1E13477B4303A2D4B9A8CA9572094B30.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset'
+[2023.03.04-19.51.28:103][717]LogSavePackage: Moving output files for package: /Game/FPWeapon/Materials/MaterialLayers/ML_Screen
+[2023.03.04-19.51.28:105][717]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/ML_ScreenB9B8E6C340A48F1C46A773AC68083435.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/FPWeapon/Materials/MaterialLayers/ML_Screen.uasset'
+[2023.03.04-19.51.28:108][717]LogSavePackage: Moving output files for package: /Game/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01
+[2023.03.04-19.51.28:111][717]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/T_ML_Aluminum01A49CCE26433F4751397327AB6283EA40.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uasset'
+[2023.03.04-19.51.28:114][717]LogSavePackage: Moving output files for package: /Game/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N
+[2023.03.04-19.51.28:116][717]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/T_ML_Aluminum01_N107CA65A41ED0A51EC806EB74B32AC30.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset'
+[2023.03.04-19.51.28:121][717]LogSavePackage: Moving output files for package: /Game/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4
+[2023.03.04-19.51.28:123][717]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/ML_SoftMetal_UE4290B96024214117E12825782D7E1D958.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset'
+[2023.03.04-19.51.28:128][717]LogSavePackage: Moving output files for package: /Game/FPWeapon/Textures/T_FPGun_M
+[2023.03.04-19.51.28:131][717]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/T_FPGun_ME14432CD4E11164A5B53DCA34E8919F7.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/FPWeapon/Textures/T_FPGun_M.uasset'
+[2023.03.04-19.51.28:135][717]LogSavePackage: Moving output files for package: /Game/FPWeapon/Textures/T_FPGun_N
+[2023.03.04-19.51.28:136][717]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/T_FPGun_NB487D9FF4D9487DE4BB98A8290074D34.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/FPWeapon/Textures/T_FPGun_N.uasset'
+[2023.03.04-19.51.28:141][717]LogSavePackage: Moving output files for package: /Game/FPWeapon/Materials/M_FPGun
+[2023.03.04-19.51.28:142][717]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/M_FPGunC0D6EA3B4E55B1AD1B957C839D15610A.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/FPWeapon/Materials/M_FPGun.uasset'
+[2023.03.04-19.51.28:146][717]LogSavePackage: Moving output files for package: /Game/FPWeapon/Mesh/SK_FPGun_Physics
+[2023.03.04-19.51.28:147][717]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/SK_FPGun_PhysicsC98DB53848A9A115DBD48D993EEE50FA.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/FPWeapon/Mesh/SK_FPGun_Physics.uasset'
+[2023.03.04-19.51.28:151][717]LogSavePackage: Moving output files for package: /Game/FPWeapon/Mesh/SK_FPGun_Skeleton
+[2023.03.04-19.51.28:152][717]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/SK_FPGun_SkeletonF38C68D34FF8404AF54372BA9E623F8D.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset'
+[2023.03.04-19.51.28:155][717]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FPWeapon/Mesh/SK_FPGun" FILE="../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/FPWeapon/Mesh/SK_FPGun.uasset" SILENT=true
+[2023.03.04-19.51.28:156][717]LogSavePackage: Moving output files for package: /Game/FPWeapon/Mesh/SK_FPGun
+[2023.03.04-19.51.28:158][717]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/SK_FPGun1B64B214406C9BB58E884686E9DE6020.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/FPWeapon/Mesh/SK_FPGun.uasset'
+[2023.03.04-19.51.28:161][717]LogSavePackage: Moving output files for package: /Game/FPWeapon/Mesh/FirstPersonProjectileMesh
+[2023.03.04-19.51.28:163][717]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/FirstPersonProjectileMesh4D9BCD0745C8A5059A060D81F864DFBF.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/FPWeapon/Mesh/FirstPersonProjectileMesh.uasset'
+[2023.03.04-19.51.28:167][717]LogSavePackage: Moving output files for package: /Game/FPWeapon/Mesh/SK_FPGun_PhysicsAsset
+[2023.03.04-19.51.28:168][717]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/SK_FPGun_PhysicsAsset03D705B44B465F01907DDAA749100284.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uasset'
+[2023.03.04-19.51.28:172][717]LogSavePackage: Moving output files for package: /Game/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber
+[2023.03.04-19.51.28:173][717]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/T_ML_FineRubber27FE993F46E5BF26BA203D82D6DA4EFC.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber.uasset'
+[2023.03.04-19.51.28:177][717]LogSavePackage: Moving output files for package: /Game/FPWeapon/Materials/FirstPersonProjectileMaterial
+[2023.03.04-19.51.28:178][717]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/FirstPersonProjectileMaterialE6A09BC6478DF619691DA3B8FC2A0DAB.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/FPWeapon/Materials/FirstPersonProjectileMaterial.uasset'
+[2023.03.04-19.51.28:182][717]LogSavePackage: Moving output files for package: /Game/FPWeapon/Materials/BaseMaterial
+[2023.03.04-19.51.28:184][717]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/BaseMaterialD606E81F47C82663A40E2DB5E4219643.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/FPWeapon/Materials/BaseMaterial.uasset'
+[2023.03.04-19.51.28:189][717]LogSavePackage: Moving output files for package: /Game/Game_Objects/Cannon/FPWeapon/Audio/FirstPersonTemplateWeaponFire02
+[2023.03.04-19.51.28:189][717]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/FirstPersonTemplateWeaponFire0279C0E3484EBEFBFFFEC468B04861B930.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/Game_Objects/Cannon/FPWeapon/Audio/FirstPersonTemplateWeaponFire02.uasset'
+[2023.03.04-19.51.28:304][717]LogSavePackage: Moving output files for package: /Game/Game_Objects/Cannon/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D
+[2023.03.04-19.51.28:304][717]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/T_ML_Rubber_Blue_01_DE4D3925E41A0D08190D7C18FE1FB20BC.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/Game_Objects/Cannon/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset'
+[2023.03.04-19.51.28:420][717]LogSavePackage: Moving output files for package: /Game/Game_Objects/Cannon/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N
+[2023.03.04-19.51.28:421][717]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/T_ML_Rubber_Blue_01_NC703C0274AE1EDE7102AC7BB0D2FF28F.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/Game_Objects/Cannon/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset'
+[2023.03.04-19.51.28:426][717]LogSavePackage: Moving output files for package: /Game/Game_Objects/Cannon/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4
+[2023.03.04-19.51.28:426][717]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/ML_GlossyBlack_Latex_UE4852DE3E94A9B191C25A972B812981D52.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/Game_Objects/Cannon/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset'
+[2023.03.04-19.51.28:431][717]LogSavePackage: Moving output files for package: /Game/Game_Objects/Cannon/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige
+[2023.03.04-19.51.28:432][717]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/ML_Plastic_Shiny_Beige2D70B4984F6EBA5B80E80986FD88D5C8.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/Game_Objects/Cannon/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset'
+[2023.03.04-19.51.28:437][717]LogSavePackage: Moving output files for package: /Game/Game_Objects/Cannon/FPWeapon/Materials/MaterialLayers/ML_Screen
+[2023.03.04-19.51.28:437][717]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/ML_ScreenFACAD4A84BFF4934684A22A8772F97CC.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/Game_Objects/Cannon/FPWeapon/Materials/MaterialLayers/ML_Screen.uasset'
+[2023.03.04-19.51.28:566][717]LogSavePackage: Moving output files for package: /Game/Game_Objects/Cannon/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01
+[2023.03.04-19.51.28:566][717]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/T_ML_Aluminum013A7D8EA646DEF897C91AD1AF59CE590A.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/Game_Objects/Cannon/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uasset'
+[2023.03.04-19.51.28:635][717]LogSavePackage: Moving output files for package: /Game/Game_Objects/Cannon/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N
+[2023.03.04-19.51.28:635][717]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/T_ML_Aluminum01_N1EC66C0843EC3D602B48A8A5217D6827.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/Game_Objects/Cannon/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset'
+[2023.03.04-19.51.28:639][717]LogSavePackage: Moving output files for package: /Game/Game_Objects/Cannon/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4
+[2023.03.04-19.51.28:639][717]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/ML_SoftMetal_UE48BDF560345B194ABA20AB69A83FF00AD.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/Game_Objects/Cannon/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset'
+[2023.03.04-19.51.28:647][717]LogSavePackage: Moving output files for package: /Game/Game_Objects/Cannon/FPWeapon/Textures/T_FPGun_M
+[2023.03.04-19.51.28:647][717]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/T_FPGun_M778DC8B84EBF9B250C77B7AB6923F6A6.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/Game_Objects/Cannon/FPWeapon/Textures/T_FPGun_M.uasset'
+[2023.03.04-19.51.28:680][717]LogSavePackage: Moving output files for package: /Game/Game_Objects/Cannon/FPWeapon/Textures/T_FPGun_N
+[2023.03.04-19.51.28:681][717]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/T_FPGun_N03B9EF9646905ECDB3A45192DA4F9D53.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/Game_Objects/Cannon/FPWeapon/Textures/T_FPGun_N.uasset'
+[2023.03.04-19.51.28:688][717]LogSavePackage: Moving output files for package: /Game/Game_Objects/Cannon/FPWeapon/Materials/M_FPGun
+[2023.03.04-19.51.28:688][717]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/M_FPGun3E92F15C4D93FF611D21348E866D41C9.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/Game_Objects/Cannon/FPWeapon/Materials/M_FPGun.uasset'
+[2023.03.04-19.51.28:690][717]LogSavePackage: Moving output files for package: /Game/Game_Objects/Cannon/FPWeapon/Mesh/SK_FPGun_Physics
+[2023.03.04-19.51.28:690][717]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/SK_FPGun_Physics871E460B457CADB1069EBF9A83664720.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/Game_Objects/Cannon/FPWeapon/Mesh/SK_FPGun_Physics.uasset'
+[2023.03.04-19.51.28:693][717]LogSavePackage: Moving output files for package: /Game/Game_Objects/Cannon/FPWeapon/Mesh/SK_FPGun_Skeleton
+[2023.03.04-19.51.28:693][717]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/SK_FPGun_Skeleton13EC0F304BF5BD8B9EA2CDA721444969.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/Game_Objects/Cannon/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset'
+[2023.03.04-19.51.28:712][717]LogSavePackage: Moving output files for package: /Game/Game_Objects/Cannon/FPWeapon/Mesh/SK_FPGun
+[2023.03.04-19.51.28:712][717]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/SK_FPGunC09B85DB4BD7FEDD0E077B820029B63F.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/Game_Objects/Cannon/FPWeapon/Mesh/SK_FPGun.uasset'
+[2023.03.04-19.51.28:733][717]LogSavePackage: Moving output files for package: /Game/Game_Objects/Cannon/FPWeapon/Mesh/FirstPersonProjectileMesh
+[2023.03.04-19.51.28:733][717]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/FirstPersonProjectileMesh78CA6DB0421F4E8F68D0A9853866D1B5.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/Game_Objects/Cannon/FPWeapon/Mesh/FirstPersonProjectileMesh.uasset'
+[2023.03.04-19.51.28:737][717]LogSavePackage: Moving output files for package: /Game/Game_Objects/Cannon/FPWeapon/Mesh/SK_FPGun_PhysicsAsset
+[2023.03.04-19.51.28:737][717]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/SK_FPGun_PhysicsAsset2103E43E463361C7B5A82E87290F4EEA.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/Game_Objects/Cannon/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uasset'
+[2023.03.04-19.51.28:843][717]LogSavePackage: Moving output files for package: /Game/Game_Objects/Cannon/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber
+[2023.03.04-19.51.28:843][717]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/T_ML_FineRubber08AE3D3847748D06FEC7C38CC087F262.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/Game_Objects/Cannon/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber.uasset'
+[2023.03.04-19.51.28:848][717]LogSavePackage: Moving output files for package: /Game/Game_Objects/Cannon/FPWeapon/Materials/FirstPersonProjectileMaterial
+[2023.03.04-19.51.28:848][717]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/FirstPersonProjectileMaterial94A85DE64A24751F32A84CBCB819BA70.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/Game_Objects/Cannon/FPWeapon/Materials/FirstPersonProjectileMaterial.uasset'
+[2023.03.04-19.51.28:855][717]LogSavePackage: Moving output files for package: /Game/Game_Objects/Cannon/FPWeapon/Materials/BaseMaterial
+[2023.03.04-19.51.28:855][717]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/BaseMaterialFC22EB554318AC1391FCE09CD3F2D22D.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/Game_Objects/Cannon/FPWeapon/Materials/BaseMaterial.uasset'
+[2023.03.04-19.51.32:492][717]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.03.04-19.51.32:522][717]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.03.04-19.51.32:544][717]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.03.04-19.51.33:134][717]SourceControl: Error: warning: could not open directory 'Content/Game_Objects/FPWeapon/': No such file or directory
+[2023.03.04-19.51.33:134][717]SourceControl: Error: warning: could not open directory 'Content/Game_Objects/FPWeapon/Materials/': No such file or directory
+[2023.03.04-19.51.33:134][717]SourceControl: Error: warning: could not open directory 'Content/Game_Objects/FPWeapon/': No such file or directory
+[2023.03.04-19.51.33:135][717]SourceControl: Error: warning: could not open directory 'Content/Game_Objects/FPWeapon/': No such file or directory
+[2023.03.04-19.51.33:135][717]SourceControl: Error: warning: could not open directory 'Content/Game_Objects/FPWeapon/': No such file or directory
+[2023.03.04-19.51.33:135][717]SourceControl: rm 'Content/Game_Objects/FPWeapon/Audio/FirstPersonTemplateWeaponFire02.uasset'
+[2023.03.04-19.51.33:135][717]SourceControl: rm 'Content/Game_Objects/FPWeapon/Materials/BaseMaterial.uasset'
+[2023.03.04-19.51.33:135][717]SourceControl: rm 'Content/Game_Objects/FPWeapon/Materials/FirstPersonProjectileMaterial.uasset'
+[2023.03.04-19.51.33:135][717]SourceControl: rm 'Content/Game_Objects/FPWeapon/Materials/M_FPGun.uasset'
+[2023.03.04-19.51.33:135][717]SourceControl: rm 'Content/Game_Objects/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset'
+[2023.03.04-19.51.33:135][717]SourceControl: rm 'Content/Game_Objects/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset'
+[2023.03.04-19.51.33:135][717]SourceControl: rm 'Content/Game_Objects/FPWeapon/Materials/MaterialLayers/ML_Screen.uasset'
+[2023.03.04-19.51.33:135][717]SourceControl: rm 'Content/Game_Objects/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset'
+[2023.03.04-19.51.33:135][717]SourceControl: rm 'Content/Game_Objects/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uasset'
+[2023.03.04-19.51.33:135][717]SourceControl: rm 'Content/Game_Objects/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset'
+[2023.03.04-19.51.33:135][717]SourceControl: rm 'Content/Game_Objects/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber.uasset'
+[2023.03.04-19.51.33:135][717]SourceControl: rm 'Content/Game_Objects/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset'
+[2023.03.04-19.51.33:135][717]SourceControl: rm 'Content/Game_Objects/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset'
+[2023.03.04-19.51.33:135][717]SourceControl: rm 'Content/Game_Objects/FPWeapon/Mesh/FirstPersonProjectileMesh.uasset'
+[2023.03.04-19.51.33:135][717]SourceControl: rm 'Content/Game_Objects/FPWeapon/Mesh/SK_FPGun.uasset'
+[2023.03.04-19.51.33:135][717]SourceControl: rm 'Content/Game_Objects/FPWeapon/Mesh/SK_FPGun_Physics.uasset'
+[2023.03.04-19.51.33:135][717]SourceControl: rm 'Content/Game_Objects/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uasset'
+[2023.03.04-19.51.33:135][717]SourceControl: rm 'Content/Game_Objects/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset'
+[2023.03.04-19.51.33:135][717]SourceControl: rm 'Content/Game_Objects/FPWeapon/Textures/T_FPGun_M.uasset'
+[2023.03.04-19.51.33:135][717]SourceControl: rm 'Content/Game_Objects/FPWeapon/Textures/T_FPGun_N.uasset'
+[2023.03.04-19.51.33:258][717]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.04-19.51.33:259][717]LogContentValidation: Display: Validating SoundWave /Game/Game_Objects/Cannon/FPWeapon/Audio/FirstPersonTemplateWeaponFire02.FirstPersonTemplateWeaponFire02
+[2023.03.04-19.51.33:259][717]LogContentValidation: Display: Validating Texture2D /Game/Game_Objects/Cannon/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.T_ML_Rubber_Blue_01_D
+[2023.03.04-19.51.33:259][717]LogContentValidation: Display: Validating Texture2D /Game/Game_Objects/Cannon/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.T_ML_Rubber_Blue_01_N
+[2023.03.04-19.51.33:259][717]LogContentValidation: Display: Validating MaterialFunction /Game/Game_Objects/Cannon/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.ML_GlossyBlack_Latex_UE4
+[2023.03.04-19.51.33:259][717]LogContentValidation: Display: Validating MaterialFunction /Game/Game_Objects/Cannon/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.ML_Plastic_Shiny_Beige
+[2023.03.04-19.51.33:259][717]LogContentValidation: Display: Validating MaterialFunction /Game/Game_Objects/Cannon/FPWeapon/Materials/MaterialLayers/ML_Screen.ML_Screen
+[2023.03.04-19.51.33:259][717]LogContentValidation: Display: Validating Texture2D /Game/Game_Objects/Cannon/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.T_ML_Aluminum01
+[2023.03.04-19.51.33:259][717]LogContentValidation: Display: Validating Texture2D /Game/Game_Objects/Cannon/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.T_ML_Aluminum01_N
+[2023.03.04-19.51.33:259][717]LogContentValidation: Display: Validating MaterialFunction /Game/Game_Objects/Cannon/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.ML_SoftMetal_UE4
+[2023.03.04-19.51.33:259][717]LogContentValidation: Display: Validating Texture2D /Game/Game_Objects/Cannon/FPWeapon/Textures/T_FPGun_M.T_FPGun_M
+[2023.03.04-19.51.33:259][717]LogContentValidation: Display: Validating Texture2D /Game/Game_Objects/Cannon/FPWeapon/Textures/T_FPGun_N.T_FPGun_N
+[2023.03.04-19.51.33:259][717]LogContentValidation: Display: Validating Material /Game/Game_Objects/Cannon/FPWeapon/Materials/M_FPGun.M_FPGun
+[2023.03.04-19.51.33:259][717]LogContentValidation: Display: Validating PhysicsAsset /Game/Game_Objects/Cannon/FPWeapon/Mesh/SK_FPGun_Physics.SK_FPGun_Physics
+[2023.03.04-19.51.33:259][717]LogContentValidation: Display: Validating Skeleton /Game/Game_Objects/Cannon/FPWeapon/Mesh/SK_FPGun_Skeleton.SK_FPGun_Skeleton
+[2023.03.04-19.51.33:259][717]LogContentValidation: Display: Validating SkeletalMesh /Game/Game_Objects/Cannon/FPWeapon/Mesh/SK_FPGun.SK_FPGun
+[2023.03.04-19.51.33:259][717]LogContentValidation: Display: Validating ObjectRedirector /Game/FPWeapon/Mesh/SK_FPGun.SK_FPGun1
+[2023.03.04-19.51.33:259][717]LogContentValidation: Display: Validating ObjectRedirector /Game/FPWeapon/Mesh/FirstPersonProjectileMesh.FirstPersonProjectileMesh
+[2023.03.04-19.51.33:259][717]LogContentValidation: Display: Validating ObjectRedirector /Game/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.SK_FPGun_PhysicsAsset
+[2023.03.04-19.51.33:259][717]LogContentValidation: Display: Validating ObjectRedirector /Game/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber.T_ML_FineRubber
+[2023.03.04-19.51.33:259][717]LogContentValidation: Display: Validating ObjectRedirector /Game/FPWeapon/Materials/BaseMaterial.BaseMaterial
+[2023.03.04-19.51.33:259][717]LogContentValidation: Display: Validating ObjectRedirector /Game/FPWeapon/Materials/FirstPersonProjectileMaterial.FirstPersonProjectileMaterial
+[2023.03.04-19.51.33:259][717]LogContentValidation: Display: Validating ObjectRedirector /Game/FPWeapon/Audio/FirstPersonTemplateWeaponFire02.FirstPersonTemplateWeaponFire02
+[2023.03.04-19.51.33:259][717]LogContentValidation: Display: Validating ObjectRedirector /Game/FPWeapon/Mesh/SK_FPGun.SK_FPGun
+[2023.03.04-19.51.33:259][717]LogContentValidation: Display: Validating ObjectRedirector /Game/FPWeapon/Mesh/SK_FPGun_Skeleton.SK_FPGun_Skeleton
+[2023.03.04-19.51.33:259][717]LogContentValidation: Display: Validating ObjectRedirector /Game/FPWeapon/Mesh/SK_FPGun_Physics.SK_FPGun_Physics
+[2023.03.04-19.51.33:259][717]LogContentValidation: Display: Validating ObjectRedirector /Game/FPWeapon/Materials/M_FPGun.M_FPGun
+[2023.03.04-19.51.33:259][717]LogContentValidation: Display: Validating ObjectRedirector /Game/FPWeapon/Textures/T_FPGun_N.T_FPGun_N
+[2023.03.04-19.51.33:259][717]LogContentValidation: Display: Validating ObjectRedirector /Game/FPWeapon/Textures/T_FPGun_M.T_FPGun_M
+[2023.03.04-19.51.33:259][717]LogContentValidation: Display: Validating ObjectRedirector /Game/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.ML_SoftMetal_UE4
+[2023.03.04-19.51.33:259][717]LogContentValidation: Display: Validating ObjectRedirector /Game/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.T_ML_Aluminum01_N
+[2023.03.04-19.51.33:259][717]LogContentValidation: Display: Validating ObjectRedirector /Game/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.T_ML_Aluminum01
+[2023.03.04-19.51.33:259][717]LogContentValidation: Display: Validating ObjectRedirector /Game/FPWeapon/Materials/MaterialLayers/ML_Screen.ML_Screen
+[2023.03.04-19.51.33:259][717]LogContentValidation: Display: Validating ObjectRedirector /Game/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.ML_Plastic_Shiny_Beige
+[2023.03.04-19.51.33:259][717]LogContentValidation: Display: Validating ObjectRedirector /Game/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.ML_GlossyBlack_Latex_UE4
+[2023.03.04-19.51.33:259][717]LogContentValidation: Display: Validating ObjectRedirector /Game/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.T_ML_Rubber_Blue_01_N
+[2023.03.04-19.51.33:259][717]LogContentValidation: Display: Validating ObjectRedirector /Game/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.T_ML_Rubber_Blue_01_D
+[2023.03.04-19.51.33:259][717]LogContentValidation: Display: Validating StaticMesh /Game/Game_Objects/Cannon/FPWeapon/Mesh/FirstPersonProjectileMesh.FirstPersonProjectileMesh
+[2023.03.04-19.51.33:259][717]LogContentValidation: Display: Validating PhysicsAsset /Game/Game_Objects/Cannon/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.SK_FPGun_PhysicsAsset
+[2023.03.04-19.51.33:259][717]LogContentValidation: Display: Validating Texture2D /Game/Game_Objects/Cannon/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber.T_ML_FineRubber
+[2023.03.04-19.51.33:259][717]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Game_Objects/Cannon/FPWeapon/Materials/FirstPersonProjectileMaterial.FirstPersonProjectileMaterial
+[2023.03.04-19.51.33:259][717]LogContentValidation: Display: Validating Material /Game/Game_Objects/Cannon/FPWeapon/Materials/BaseMaterial.BaseMaterial
+[2023.03.04-19.51.34:475][780]SourceControl: Error: warning: could not open directory 'Content/Game_Objects/FPWeapon/': No such file or directory
+[2023.03.04-19.51.34:475][780]SourceControl: Error: warning: could not open directory 'Content/Game_Objects/FPWeapon/Materials/': No such file or directory
+[2023.03.04-19.51.34:475][780]SourceControl: Error: warning: could not open directory 'Content/Game_Objects/FPWeapon/': No such file or directory
+[2023.03.04-19.51.34:475][780]SourceControl: Error: warning: could not open directory 'Content/Game_Objects/FPWeapon/': No such file or directory
+[2023.03.04-19.51.34:475][780]SourceControl: Error: warning: could not open directory 'Content/Game_Objects/FPWeapon/': No such file or directory
+[2023.03.04-19.51.44:058][297]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.03.04-19.51.47:362][297]LogSlate: Window 'Delete Assets' being destroyed
+[2023.03.04-19.51.47:384][297]LogUObjectGlobals: Force Deleting 21 Package(s):
+	Asset Name: /Game/FPWeapon/Mesh/SK_FPGun.SK_FPGun1
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/FPWeapon/Mesh/FirstPersonProjectileMesh.FirstPersonProjectileMesh
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.SK_FPGun_PhysicsAsset
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber.T_ML_FineRubber
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/FPWeapon/Materials/BaseMaterial.BaseMaterial
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/FPWeapon/Materials/FirstPersonProjectileMaterial.FirstPersonProjectileMaterial
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/FPWeapon/Audio/FirstPersonTemplateWeaponFire02.FirstPersonTemplateWeaponFire02
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/FPWeapon/Mesh/SK_FPGun.SK_FPGun
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/FPWeapon/Mesh/SK_FPGun_Skeleton.SK_FPGun_Skeleton
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/FPWeapon/Mesh/SK_FPGun_Physics.SK_FPGun_Physics
+	Asset Type: ObjectRedirector
+[2023.03.04-19.51.48:497][297]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.03.04-19.51.48:523][297]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.03.04-19.51.48:550][297]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.03.04-19.51.50:241][297]SourceControl: Error: Updated 20 paths from the index
