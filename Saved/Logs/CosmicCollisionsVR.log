@@ -1025,3 +1025,233 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.03.04-19.08.41:234][  1]LogResonanceAudio: Display: Resonance Audio Listener is initialized
 [2023.03.04-19.08.41:270][  2]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
 [2023.03.04-19.10.34:679][774]LogDerivedDataCache: C:/Users/eddie/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:08.832 and deleted 0 file(s) with total size 0 MiB.
+[2023.03.04-19.20.07:066][454]LogViewport: Scene viewport resized to 677x557, mode Windowed.
+[2023.03.04-19.20.08:986][527]LogViewport: Scene viewport resized to 1021x869, mode Windowed.
+[2023.03.04-19.20.13:735][805]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.03.04-19.20.28:974][709]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.03.04-19.20.54:236][189]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.03.04-19.20.54:274][189]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto1
+[2023.03.04-19.20.54:274][189]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/VRTemplateMap_Auto116A1AE50421D17E994537F8EB32BEFCB.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto1.umap'
+[2023.03.04-19.20.54:284][189]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.067
+[2023.03.04-19.20.54:284][189]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.067
+[2023.03.04-19.23.01:418][664]LogViewport: Scene viewport resized to 677x557, mode Windowed.
+[2023.03.04-19.23.06:170][873]LogViewport: Scene viewport resized to 1021x869, mode Windowed.
+[2023.03.04-19.23.08:313][995]LogSlate: Took 0.007074 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.03.04-19.23.08:328][995]LogSlate: Took 0.000694 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.03.04-19.23.15:953][ 96]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/eddie/Downloads/Earth.fbx)
+[2023.03.04-19.23.15:978][ 96]LogFbx: Loading FBX Scene from ../../../../../../Users/eddie/Downloads/Earth.fbx
+[2023.03.04-19.23.15:987][ 96]LogFbx: FBX Scene Loaded Succesfully
+[2023.03.04-19.23.22:382][ 96]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.03.04-19.23.22:421][ 96]LogMaterial: Display: Material /Game/Earth_MATERIAL.Earth_MATERIAL needed to have new flag set bUsedWithSkeletalMesh !
+[2023.03.04-19.23.22:426][ 96]LogMaterial: Display: Missing cached shadermap for Earth_MATERIAL in PCD3D_SM5, Default, SM5 (DDC key hash: 3BA213F321D0CF42B1C3FF34E73569414836C336), compiling. 
+[2023.03.04-19.23.22:527][ 96]LogFbxMaterialImport: Display: Unable to find Texture file C:\Users\Igor\Desktop\Earth\Earth_TEXTURE_CM.tga
+[2023.03.04-19.23.22:533][ 96]LogMaterial: Display: Missing cached shadermap for Earth_MATERIAL in PCD3D_SM5, Default, SM5 (DDC key hash: 7A3113A4E4EEC767AE18D1BCCC0C4816EA3C73B6), compiling. 
+[2023.03.04-19.23.22:538][ 96]LogFbx: Triangulating skeletal mesh Earth
+[2023.03.04-19.23.22:628][ 96]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2023.03.04-19.23.22:723][ 96]LogSkeletalMesh: Section 0: Material=0, 3696 triangles
+[2023.03.04-19.23.22:743][ 96]LogSkeletalMesh: Building Skeletal Mesh Earth...
+[2023.03.04-19.23.22:743][ 96]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (Earth) ...
+[2023.03.04-19.23.22:806][ 96]LogSkeletalMesh: Built Skeletal Mesh [0.08s] /Game/Earth.Earth
+[2023.03.04-19.23.22:807][ 96]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.04-19.23.22:813][ 96]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2023.03.04-19.23.22:813][ 96]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.03.04-19.23.22:813][ 96]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.04-19.23.22:816][ 96]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.04-19.23.22:822][ 96]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.03.04-19.23.22:823][ 96]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.04-19.23.22:826][ 96]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.03.04-19.23.22:826][ 96]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2023.03.04-19.23.25:578][255]LogProfilingDebugging: Allocated a 1021 x 869 texture for HMD canvas layer
+[2023.03.04-19.23.39:525][980]LogShaderCompilers: Display: ================================================
+[2023.03.04-19.23.39:525][980]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.04-19.23.39:525][980]LogShaderCompilers: Display: Total job queries 28, among them cache hits 0 (0.00%)
+[2023.03.04-19.23.39:525][980]LogShaderCompilers: Display: Tracking 4 distinct input hashes that result in 4 distinct outputs (100.00%)
+[2023.03.04-19.23.39:525][980]LogShaderCompilers: Display: RAM used: 0.02 MB (0.00 GB) of 716.80 MB (0.70 GB) budget. Usage: 0.00%
+[2023.03.04-19.23.39:525][980]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.04-19.23.39:525][980]LogShaderCompilers: Display: Shaders Compiled: 28
+[2023.03.04-19.23.39:525][980]LogShaderCompilers: Display: Jobs assigned 28, completed 4 (14.29%)
+[2023.03.04-19.23.39:525][980]LogShaderCompilers: Display: Time job spent in pending queue: average 0.00 s, longest 0.00 s
+[2023.03.04-19.23.39:525][980]LogShaderCompilers: Display: Job execution time: average 16.98 s, max 16.98 s
+[2023.03.04-19.23.39:525][980]LogShaderCompilers: Display: Job life time (pending + execution): average 16.99 s, max 16.99
+[2023.03.04-19.23.39:525][980]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 16.99 s
+[2023.03.04-19.23.39:525][980]LogShaderCompilers: Display: Jobs were issued in 7 batches (only distributed compilation was used), average 4.00 jobs/batch
+[2023.03.04-19.23.39:525][980]LogShaderCompilers: Display: Average processing rate: 0.24 jobs/sec
+[2023.03.04-19.23.39:525][980]LogShaderCompilers: Display: Effective parallelization: 0.93 (times faster than compiling all shaders on one thread). Distributed compilation was used.
+[2023.03.04-19.23.39:525][980]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2023.03.04-19.23.39:525][980]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    1 times, average 5.21 sec, max 5.21 sec, min 5.21 sec)
+[2023.03.04-19.23.39:525][980]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 5.12 sec, max 5.12 sec, min 5.12 sec)
+[2023.03.04-19.23.39:525][980]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    1 times, average 4.26 sec, max 4.26 sec, min 4.26 sec)
+[2023.03.04-19.23.39:525][980]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 1.17 sec, max 1.17 sec, min 1.17 sec)
+[2023.03.04-19.23.39:525][980]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2023.03.04-19.23.39:525][980]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy - 33.07% of total time (compiled    1 times, average 5.21 sec, max 5.21 sec, min 5.21 sec)
+[2023.03.04-19.23.39:525][980]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 32.47% of total time (compiled    1 times, average 5.12 sec, max 5.12 sec, min 5.12 sec)
+[2023.03.04-19.23.39:525][980]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 27.02% of total time (compiled    1 times, average 4.26 sec, max 4.26 sec, min 4.26 sec)
+[2023.03.04-19.23.39:525][980]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 7.44% of total time (compiled    1 times, average 1.17 sec, max 1.17 sec, min 1.17 sec)
+[2023.03.04-19.23.39:525][980]LogShaderCompilers: Display: ================================================
+[2023.03.04-19.23.51:759][651]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Earth.Earth
+[2023.03.04-19.23.51:792][651]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.04-19.23.51:820][651]LogMaterial: Display: Missing cached shadermap for M_SkyBox in PCD3D_SM5, Default, SM5 (DDC key hash: 61DAE346326525E26FEC297581E8B5A91302EAF7), compiling. 
+[2023.03.04-19.23.51:897][651]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.03.04-19.23.52:549][651]LogViewport: Scene viewport resized to 588x247, mode Windowed.
+[2023.03.04-19.24.01:073][904]LogViewport: Scene viewport resized to 586x270, mode Windowed.
+[2023.03.04-19.24.01:188][906]LogViewport: Scene viewport resized to 467x187, mode Windowed.
+[2023.03.04-19.24.01:517][920]LogViewport: Scene viewport resized to 1141x858, mode Windowed.
+[2023.03.04-19.24.01:783][933]LogSlate: Window 'Earth' being destroyed
+[2023.03.04-19.24.47:466][338]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/Pistol.Pistol
+[2023.03.04-19.24.47:468][338]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.04-19.24.48:578][338]LogSlate: Took 0.000733 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.03.04-19.24.51:326][477]LogViewport: Scene viewport resized to 965x655, mode Windowed.
+[2023.03.04-19.25.07:213][327]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/Projectile.Projectile
+[2023.03.04-19.25.07:214][327]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.04-19.28.16:491][432]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Earth_MATERIAL.Earth_MATERIAL
+[2023.03.04-19.28.16:496][432]LogMaterial: Display: Missing cached shadermap for Preview:Earth_MATERIAL in PCD3D_SM5, Default, SM5 (DDC key hash: 00FB633B2ADA668DB8B4B8FAB3C7725ABDBCC0D1), compiling. 
+[2023.03.04-19.28.16:540][432]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.04-19.28.16:542][432]LogShaderCompilers: Display: ================================================
+[2023.03.04-19.28.16:542][432]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.04-19.28.16:542][432]LogShaderCompilers: Display: Total job queries 59, among them cache hits 7 (11.86%)
+[2023.03.04-19.28.16:542][432]LogShaderCompilers: Display: Tracking 37 distinct input hashes that result in 18 distinct outputs (48.65%)
+[2023.03.04-19.28.16:542][432]LogShaderCompilers: Display: RAM used: 0.09 MB (0.00 GB) of 716.80 MB (0.70 GB) budget. Usage: 0.01%
+[2023.03.04-19.28.16:542][432]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.04-19.28.16:542][432]LogShaderCompilers: Display: Shaders Compiled: 52
+[2023.03.04-19.28.16:542][432]LogShaderCompilers: Display: Jobs assigned 39, completed 39 (100.00%)
+[2023.03.04-19.28.16:542][432]LogShaderCompilers: Display: Average time worker was idle: 45.22 s
+[2023.03.04-19.28.16:542][432]LogShaderCompilers: Display: Time job spent in pending queue: average 0.01 s, longest 0.07 s
+[2023.03.04-19.28.16:542][432]LogShaderCompilers: Display: Job execution time: average 49.32 s, max 94.00 s
+[2023.03.04-19.28.16:542][432]LogShaderCompilers: Display: Job life time (pending + execution): average 49.33 s, max 94.01
+[2023.03.04-19.28.16:542][432]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 106.19 s
+[2023.03.04-19.28.16:542][432]LogShaderCompilers: Display: Jobs were issued in 15 batches (7 local, 8 distributed), average 2.60 jobs/batch (1.00 jobs/local batch. 4.00 jobs/distributed batch)
+[2023.03.04-19.28.16:542][432]LogShaderCompilers: Display: Average processing rate: 0.37 jobs/sec
+[2023.03.04-19.28.16:542][432]LogShaderCompilers: Display: Effective parallelization: 1.11 (times faster than compiling all shaders on one thread). Distributed compilation was used.
+[2023.03.04-19.28.16:542][432]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.03.04-19.28.16:542][432]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    2 times, average 6.12 sec, max 7.22 sec, min 5.02 sec)
+[2023.03.04-19.28.16:542][432]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    4 times, average 5.48 sec, max 7.29 sec, min 4.08 sec)
+[2023.03.04-19.28.16:542][432]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    2 times, average 5.20 sec, max 5.23 sec, min 5.17 sec)
+[2023.03.04-19.28.16:542][432]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    2 times, average 5.09 sec, max 5.21 sec, min 4.97 sec)
+[2023.03.04-19.28.16:542][432]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 4.56 sec, max 4.69 sec, min 4.43 sec)
+[2023.03.04-19.28.16:542][432]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.03.04-19.28.16:542][432]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 18.66% of total time (compiled    4 times, average 5.48 sec, max 7.29 sec, min 4.08 sec)
+[2023.03.04-19.28.16:542][432]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 13.13% of total time (compiled    5 times, average 3.08 sec, max 4.78 sec, min 0.80 sec)
+[2023.03.04-19.28.16:542][432]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 10.42% of total time (compiled    2 times, average 6.12 sec, max 7.22 sec, min 5.02 sec)
+[2023.03.04-19.28.16:542][432]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 8.86% of total time (compiled    2 times, average 5.20 sec, max 5.23 sec, min 5.17 sec)
+[2023.03.04-19.28.16:542][432]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy - 8.67% of total time (compiled    2 times, average 5.09 sec, max 5.21 sec, min 4.97 sec)
+[2023.03.04-19.28.16:542][432]LogShaderCompilers: Display: ================================================
+[2023.03.04-19.28.16:647][432]LogMaterial: Display: Missing cached shadermap for Preview:Earth_MATERIAL in PCD3D_SM5, Default, SM5 (DDC key hash: F9161A7562894C93ABBE41C208E1D3222C086669), compiling. 
+[2023.03.04-19.28.16:651][432]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: F7E80C46911C373C406FB98565D88B982B32E668), compiling. 
+[2023.03.04-19.28.16:696][432]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.04-19.28.16:696][432]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.03.04-19.28.16:696][432]MaterialEditorStats: Shader Count: 0
+[2023.03.04-19.28.16:702][432]LogViewport: Scene viewport resized to 376x445, mode Windowed.
+[2023.03.04-19.28.16:815][434]MaterialEditorStats: Texture samplers: 4/16
+[2023.03.04-19.28.16:815][434]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.03.04-19.28.16:815][434]MaterialEditorStats: Shader Count: 2
+[2023.03.04-19.28.45:166][900]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/eddie/Downloads/Earth_TEXTURE_CM.tga)
+[2023.03.04-19.28.45:195][900]LogTexture: Display: Building textures: /Game/Earth_TEXTURE_CM.Earth_TEXTURE_CM (TFO_AutoDXT, 2048X1024 X1X1) (Required Memory Estimate: 40.000 MB), EncodeSpeed: Fast
+[2023.03.04-19.28.48:528][ 84]LogMaterial: Display: Missing cached shadermap for Preview:Earth_MATERIAL in PCD3D_SM5, Default, SM5 (DDC key hash: CDCCE03A5EEB2DC9C0A579D8D70E08584301D3F2), compiling. 
+[2023.03.04-19.28.48:531][ 84]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: D85DB934B492D257F33DF2ACCAB88D7614216E53), compiling. 
+[2023.03.04-19.28.48:533][ 84]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: F4D86F8918DBE59D7C5C09C01B12A710C2E4FBF1), compiling. 
+[2023.03.04-19.28.48:534][ 84]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: D1E945506D96E8FADE4A19D4AC2BDBC214286CAE), compiling. 
+[2023.03.04-19.28.50:686][159]LogMaterial: Display: Missing cached shadermap for Preview:Earth_MATERIAL in PCD3D_SM5, Default, SM5 (DDC key hash: D810B7B08CD89B1B5F5DDE2BCAB104684EE5ABF8), compiling. 
+[2023.03.04-19.28.50:698][159]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.04-19.28.50:698][159]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.03.04-19.28.50:698][159]MaterialEditorStats: Shader Count: 0
+[2023.03.04-19.28.50:779][161]MaterialEditorStats: Texture samplers: 4/16
+[2023.03.04-19.28.50:779][161]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.03.04-19.28.50:779][161]MaterialEditorStats: Shader Count: 2
+[2023.03.04-19.28.52:451][222]LogMaterial: Display: Missing cached shadermap for Preview:Earth_MATERIAL in PCD3D_SM5, Default, SM5 (DDC key hash: AF0E09C8D8ADCA8378D5FBEA9C7EC18DE960A68D), compiling. 
+[2023.03.04-19.28.52:453][222]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 6F62A587F89B7961F42215D767E994D95CB1D611), compiling. 
+[2023.03.04-19.28.52:467][222]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.04-19.28.52:467][222]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.03.04-19.28.52:467][222]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.04-19.28.52:467][222]MaterialEditorStats: Shader Count: 0
+[2023.03.04-19.28.54:260][311]MaterialEditorStats: Texture samplers: 2/16
+[2023.03.04-19.28.54:260][311]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.03.04-19.28.54:260][311]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.04-19.28.54:260][311]MaterialEditorStats: Shader Count: 1
+[2023.03.04-19.28.58:256][457]MaterialEditorStats: Texture samplers: 5/16
+[2023.03.04-19.28.58:256][457]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.03.04-19.28.58:256][457]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.04-19.28.58:256][457]MaterialEditorStats: Shader Count: 2
+[2023.03.04-19.29.03:138][715]LogMaterialEditor: Saving and Compiling material Earth_MATERIAL
+[2023.03.04-19.29.04:219][715]LogMaterial: Display: Missing cached shadermap for Preview:Earth_MATERIAL in PCD3D_SM5, Default, SM5 (DDC key hash: AAEAB91DD3DD2EA5A2043C8B371BAE5669D888F8), compiling. 
+[2023.03.04-19.29.04:230][715]LogMaterial: Display: Missing cached shadermap for Earth_MATERIAL in PCD3D_SM5, Default, SM5 (DDC key hash: 9214840393DBE94D79F3B192EDAB4CC2FAB4387B), compiling. 
+[2023.03.04-19.29.04:292][715]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.03.04-19.29.05:301][715]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.03.04-19.29.08:998][715]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s, reporting...
+[2023.03.04-19.29.08:998][715]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' report submitted, and took 0.049733s
+[2023.03.04-19.29.53:955][715]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.001141s (45.004449s overbudget)
+[2023.03.04-19.29.53:972][715]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Earth_MATERIAL" FILE="../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/Earth_MATERIAL.uasset" SILENT=true
+[2023.03.04-19.29.53:974][715]LogSavePackage: Moving output files for package: /Game/Earth_MATERIAL
+[2023.03.04-19.29.53:974][715]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/Earth_MATERIAL72A793C543869BCFF00676982D642589.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/Earth_MATERIAL.uasset'
+[2023.03.04-19.29.53:992][715]AssetCheck: New page: Asset Save: Earth_MATERIAL
+[2023.03.04-19.29.53:992][715]LogContentValidation: Display: Validating Material /Game/Earth_MATERIAL.Earth_MATERIAL
+[2023.03.04-19.29.53:995][715]MaterialEditorStats: Base pass shader: 829 instructions
+[2023.03.04-19.29.53:995][715]MaterialEditorStats: Base pass vertex shader: 337 instructions
+[2023.03.04-19.29.53:995][715]MaterialEditorStats: Base pass vertex shader: 398 instructions
+[2023.03.04-19.29.53:995][715]MaterialEditorStats: Texture samplers: 6/16
+[2023.03.04-19.29.53:995][715]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.03.04-19.29.53:995][715]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.04-19.29.53:995][715]MaterialEditorStats: Shader Count: 28
+[2023.03.04-19.30.00:362][ 39]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Earth" FILE="../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/Earth.uasset" SILENT=true
+[2023.03.04-19.30.00:373][ 39]LogSavePackage: Moving output files for package: /Game/Earth
+[2023.03.04-19.30.00:373][ 39]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/EarthF884FF9F4B4CA9CC42040685E2CC4FC1.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/Earth.uasset'
+[2023.03.04-19.30.00:404][ 39]AssetCheck: New page: Asset Save: Earth
+[2023.03.04-19.30.00:404][ 39]LogContentValidation: Display: Validating SkeletalMesh /Game/Earth.Earth
+[2023.03.04-19.30.19:611][111]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Earth.Earth
+[2023.03.04-19.30.19:612][111]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Earth.Earth
+[2023.03.04-19.30.19:613][111]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Earth.Earth as actor: SkeletalMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.SkeletalMeshActor_0
+[2023.03.04-19.30.19:614][111]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Earth.Earth as actor: SkeletalMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.SkeletalMeshActor_0
+[2023.03.04-19.30.20:035][131]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Earth.Earth
+[2023.03.04-19.30.20:035][131]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Earth.Earth
+[2023.03.04-19.30.20:037][131]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Earth.Earth as actor: SkeletalMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.SkeletalMeshActor_1
+[2023.03.04-19.30.20:037][131]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Earth.Earth as actor: SkeletalMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.SkeletalMeshActor_1
+[2023.03.04-19.30.37:228][ 79]Cmd: DELETE
+[2023.03.04-19.30.37:228][ 79]Cmd: ACTOR DELETE
+[2023.03.04-19.30.37:240][ 79]LogEditorActor: Deleted Actor: TextRenderActor
+[2023.03.04-19.30.37:280][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.03.04-19.30.37:283][ 79]LogEditorActor: Deleted 1 Actors (0.049 secs)
+[2023.03.04-19.30.37:413][ 87]Cmd: DELETE
+[2023.03.04-19.30.37:414][ 87]Cmd: ACTOR DELETE
+[2023.03.04-19.30.37:580][ 97]Cmd: DELETE
+[2023.03.04-19.30.37:580][ 97]Cmd: ACTOR DELETE
+[2023.03.04-19.30.37:747][107]Cmd: DELETE
+[2023.03.04-19.30.37:747][107]Cmd: ACTOR DELETE
+[2023.03.04-19.31.29:470][748]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.03.04-19.31.29:496][748]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto2
+[2023.03.04-19.31.29:496][748]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/VRTemplateMap_Auto210AF6FE748802CF5A3399882843682C0.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto2.umap'
+[2023.03.04-19.31.29:506][748]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.071
+[2023.03.04-19.31.29:506][748]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.071
+[2023.03.04-19.31.29:506][748]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Earth_TEXTURE_CM] ([1] browsable assets)...
+[2023.03.04-19.31.29:510][748]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Earth_TEXTURE_CM.Earth_TEXTURE_CM]
+[2023.03.04-19.31.29:510][748]OBJ SavePackage: Finished generating thumbnails for package [/Game/Earth_TEXTURE_CM]
+[2023.03.04-19.31.29:517][748]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Earth_TEXTURE_CM_Auto2
+[2023.03.04-19.31.29:517][748]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/Earth_TEXTURE_CM_Auto23CA08F754520F350E9BE23B9814BFCFE.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/Autosaves/Game/Earth_TEXTURE_CM_Auto2.uasset'
+[2023.03.04-19.31.29:519][748]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Earth_Skeleton] ([1] browsable assets)...
+[2023.03.04-19.31.29:535][748]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/Earth_Skeleton.Earth_Skeleton]
+[2023.03.04-19.31.29:535][748]OBJ SavePackage: Finished generating thumbnails for package [/Game/Earth_Skeleton]
+[2023.03.04-19.31.29:536][748]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Earth_Skeleton_Auto2
+[2023.03.04-19.31.29:536][748]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/Earth_Skeleton_Auto20B09F2A74709E5CA551BF08165ABEF79.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/Autosaves/Game/Earth_Skeleton_Auto2.uasset'
+[2023.03.04-19.31.29:538][748]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Earth_PhysicsAsset] ([1] browsable assets)...
+[2023.03.04-19.31.29:548][748]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Earth_PhysicsAsset.Earth_PhysicsAsset]
+[2023.03.04-19.31.29:548][748]OBJ SavePackage: Finished generating thumbnails for package [/Game/Earth_PhysicsAsset]
+[2023.03.04-19.31.29:551][748]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Earth_PhysicsAsset_Auto2
+[2023.03.04-19.31.29:551][748]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/Earth_PhysicsAsset_Auto2DBE3A75F40E6E0CA575398BC1BE80CB6.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/Autosaves/Game/Earth_PhysicsAsset_Auto2.uasset'
+[2023.03.04-19.31.29:553][748]LogFileHelpers: Auto-saving content packages took 0.048
+[2023.03.04-19.32.38:878][573]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Earth_PhysicsAsset" FILE="../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/Earth_PhysicsAsset.uasset" SILENT=true
+[2023.03.04-19.32.38:879][573]LogSavePackage: Moving output files for package: /Game/Earth_PhysicsAsset
+[2023.03.04-19.32.38:879][573]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/Earth_PhysicsAsset4C6247194E57DA4FE9E396A119990E0B.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/Earth_PhysicsAsset.uasset'
+[2023.03.04-19.32.38:880][573]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Earth_Skeleton" FILE="../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/Earth_Skeleton.uasset" SILENT=true
+[2023.03.04-19.32.38:881][573]LogSavePackage: Moving output files for package: /Game/Earth_Skeleton
+[2023.03.04-19.32.38:881][573]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/Earth_SkeletonA8A66B8B46759193EC76F9B9A163077E.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/Earth_Skeleton.uasset'
+[2023.03.04-19.32.38:917][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.03.04-19.32.38:937][573]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2023.03.04-19.32.38:938][573]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/VRTemplateMapF475105C483DCB3DED5DD88C5982FE22.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2023.03.04-19.32.38:944][573]LogFileHelpers: No new changes to save!
+[2023.03.04-19.32.38:944][573]LogFileHelpers: Saving map 'VRTemplateMap' took 0.062
+[2023.03.04-19.32.38:945][573]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Earth_TEXTURE_CM" FILE="../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/Earth_TEXTURE_CM.uasset" SILENT=true
+[2023.03.04-19.32.39:109][573]LogSavePackage: Moving output files for package: /Game/Earth_TEXTURE_CM
+[2023.03.04-19.32.39:109][573]LogSavePackage: Moving '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Saved/Earth_TEXTURE_CM3C4042924F242D96A73FFDACA589A0CC.tmp' to '../../../../../../Users/eddie/OneDrive/Documents/Unreal Projects/CosmicCollisionsVR/Content/Earth_TEXTURE_CM.uasset'
+[2023.03.04-19.32.39:126][573]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.04-19.32.39:126][573]LogContentValidation: Display: Validating PhysicsAsset /Game/Earth_PhysicsAsset.Earth_PhysicsAsset
+[2023.03.04-19.32.39:126][573]LogContentValidation: Display: Validating Skeleton /Game/Earth_Skeleton.Earth_Skeleton
+[2023.03.04-19.32.39:126][573]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2023.03.04-19.32.39:126][573]LogContentValidation: Display: Validating Texture2D /Game/Earth_TEXTURE_CM.Earth_TEXTURE_CM
