@@ -25,3 +25,11 @@ List of requirements
 -Controller
  *Need hand model 
  *Need button input mapping assigned
+
+ HUD
+	* Earth Health
+	* Cannon Ammo
+	* Fire Rate / Pressure?
+	* Comets Destroyed
+Game
+	* Winning Conditions
