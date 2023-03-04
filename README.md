@@ -3,7 +3,8 @@ For Metaverse Hackathon
 
 List of requirements
 
--Need 3D models Comets | Earth | Moon | Sun 
+-3D models 
+*Models: Comets| Earth | Moon | Sun 
 *Need animation for Earth spinning
 *Need auras for approaching comets
 *Need aura for planets
