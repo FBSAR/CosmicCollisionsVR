@@ -52,13 +52,13 @@ Game \
 -Schedule \
 	** Monday \
 		- Keith --> Cannon & Asteroid Destructions \
-		- Eddie --> HUD & Level Design
+		- Eddie --> HUD & Level Design \
 		- Rules Review - https://itch.io/jam/mc-vr-hackathon \
 	** Tuesday \
 		- Keith --> Cannon & Asteroid Destructions \
 		- Eddie --> HUD, Teleport Animation/Effect \
 	** Wednesday \
-		- Keith --> Audio & Space Environment
+		- Keith --> Audio & Space Environment \
 		- Eddie --> Asteroid Enemy AI \
 	** Thursday \
 		- Keith --> Space Environment \
