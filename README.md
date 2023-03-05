@@ -58,7 +58,7 @@ Game \
 		- Keith --> Cannon & Asteroid Destructions \
 		- Eddie --> HUD, Teleport Animation/Effect \
 	** Wednesday \
-		- Keith --> Audio & Space Environment \
+		- Keith --> Audio & Space Environment + Lighting \
 		- Eddie --> Asteroid Enemy AI \
 	** Thursday \
 		- Keith --> Space Environment \
