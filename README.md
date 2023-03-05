@@ -15,31 +15,29 @@ List of requirements
    *Moon 3D Model - https://www.turbosquid.com/3d-models/realistic-moon-photorealistic-2k-model-1277420 \
    *Satellite 3D Model - https://www.cgtrader.com/items/2942995/download-page \
    *Sun 3D Model - https://www.cgtrader.com/free-3d-models/space/planet/the-sun-0fbaced6-ff6d-40bb-a715-e658ae2d4898 \
-   \  
+   
     
+-Enviroments \
+  *Need stars Environment \ 
+  *Platform for start position \
 
+-Cannon Beam \
+  *Need trigger control the cannon \
+  *Need laser light affect for the beam \
 
--Enviroments 
-  *Need stars Environment
-  *Platform for start position
+-Audio \
+  *Need sound effect for the cannon blast/beam \
+  *Need sound effect for the impact to comet \
+  *Need sound effect for the impact to the planet \
 
--Cannon Beam
-  *Need trigger control the cannon
-  *Need laser light affect for the beam
+-Controller \
+ *Need hand model \
+ *Need button input mapping assigned \
 
--Audio
-  *Need sound effect for the cannon blast/beam
-  *Need sound effect for the impact to comet
-  *Need sound effect for the impact to the planet
-
--Controller
- *Need hand model 
- *Need button input mapping assigned
-
- HUD
-	* Earth Health
-	* Cannon Ammo
-	* Fire Rate / Pressure?
-	* Comets Destroyed
-Game
-	* Winning Conditions
+ HUD \
+	* Earth Health \
+	* Cannon Ammo \
+	* Fire Rate / Pressure? \
+	* Comets Destroyed \
+Game \
+	* Winning Conditions \
