@@ -53,16 +53,16 @@ Game \
 	** Monday \
 		- Keith --> Cannon & Asteroid Destructions \
 		- Eddie --> HUD & Level Design
-		- Rules Review - https://itch.io/jam/mc-vr-hackathon
+		- Rules Review - https://itch.io/jam/mc-vr-hackathon \
 	** Tuesday \
 		- Keith --> Cannon & Asteroid Destructions \
-		- Eddie --> HUD, Teleport Animation/Effect,
+		- Eddie --> HUD, Teleport Animation/Effect \
 	** Wednesday \
 		- Keith --> Audio & Space Environment
-		- Eddie --> Asteroid Enemy AI
+		- Eddie --> Asteroid Enemy AI \
 	** Thursday \
 		- Keith --> Space Environment \
 		- Eddie --> Asteroid Enemy AI \
-		- Prepare Submission @ 10pm
+		- Prepare Submission @ 10pm \
 	** Friday \
 		-- Deadline March 10th 2023 at 1:00 AM
