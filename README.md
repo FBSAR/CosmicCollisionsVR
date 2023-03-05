@@ -36,6 +36,9 @@ List of requirements
 -Controller \
  *Need hand model \
  *Need button input mapping assigned 
+ 
+  -- 3D Models Sourcing \
+  *Custom Hand Asset - https://www.patreon.com/posts/custom-hands-kit-64818179?utm_medium=clipboard_copy&utm_source=copy_to_clipboard&utm_campaign=postshare
 
  HUD \
 	* Earth Health \
