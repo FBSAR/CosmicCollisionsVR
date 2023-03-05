@@ -19,20 +19,20 @@ List of requirements
     
 -Enviroments \
   *Need stars Environment \ 
-  *Platform for start position \
+  *Platform for start position 
 
 -Cannon Beam \
   *Need trigger control the cannon \
-  *Need laser light affect for the beam \
+  *Need laser light affect for the beam 
 
 -Audio \
   *Need sound effect for the cannon blast/beam \
   *Need sound effect for the impact to comet \
-  *Need sound effect for the impact to the planet \
+  *Need sound effect for the impact to the planet 
 
 -Controller \
  *Need hand model \
- *Need button input mapping assigned \
+ *Need button input mapping assigned 
 
  HUD \
 	* Earth Health \
@@ -40,4 +40,4 @@ List of requirements
 	* Fire Rate / Pressure? \
 	* Comets Destroyed \
 Game \
-	* Winning Conditions \
+	* Winning Conditions 
