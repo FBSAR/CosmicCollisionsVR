@@ -20,6 +20,7 @@ List of requirements
 -Enviroments \
   *Need stars Environment \
   *Platform for start position 
+  *Added NavMeshBounds Volume to platforms
   
   -- Environment Sourcing \
    *Stars HDRI Environment - https://www.productioncrate.com/3D/hdr-space.html#_gl=1*1xtsmr4*_ga*MTY0NTE4NzI5OC4xNjc3OTg2MDcz*_ga_NHS4EFR3W8*MTY3Nzk4ODgzMC4yLjEuMTY3Nzk4ODkzOC4wLjAuMA..&_ga=2.115093831.1395197787.1677986073-1645187298.1677986073 \
@@ -39,6 +40,7 @@ List of requirements
  
   -- 3D Models Sourcing \
   *Custom Hand Asset - https://www.patreon.com/posts/custom-hands-kit-64818179?utm_medium=clipboard_copy&utm_source=copy_to_clipboard&utm_campaign=postshare
+  *GDXR VRHands Set  - https://jonathanbardwell.gumroad.com/l/VRHandsForUnrealEngine
 
  HUD \
 	* Earth Health \
