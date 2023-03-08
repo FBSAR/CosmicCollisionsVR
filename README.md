@@ -50,4 +50,12 @@ List of requirements
 Game \
 	* Winning Conditions 
 	
-	
+ Remaining Tasks \
+	* EndGameSuccess Widget \
+	* Destruction of Asteroids \
+	* Update 'Asteroids Destroyed' Counter \
+	* Add Audio \
+	* Destruction of Earth \
+	* Teleport Effect Refine \
+	* Refine Gun Control \
+	* Add Railgun Projectile \
