@@ -59,3 +59,4 @@ Game \
 	* Teleport Effect Refine \
 	* Refine Gun Control \
 	* Add Railgun Projectile \
+	* Add Railgun Chargefire \
