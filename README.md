@@ -66,26 +66,28 @@ Game \
 ------------------------
 
 Future ideas for the game \
-	*Black Hole Ray\ 
+	*Black Hole Ray \
 		-The cannon will fire a plasma wave different from other cannons \
 		-Once it collude with the Astros it will shrink then transform to black hole \
 		-Length of time duration and gravitational pool will depend on the size of the asteroid
 
 *Torrent system \
-	-Destroying asteroids will generate points that you can use to spawn automatic torrents.
+	-Destroying asteroids will generate points that you can use to spawn automatic torrents. \
 	-The strength of the torrents and coverage will depend on the type of torrent
 
 *Boss asteroid (add boss music 🤣) \
-	-The boss health of the asteroid will be in very immensive and the only way to destroy it would require many torrents.
+	-Will be the most difficult to destroy and would likely require the help of many torrents.
 
-*Shield for earth
-	-Purchasing a shield upgrade for the Earth and shooting at it will allow the Earth to be protected from any asteroids for a limited amount of damage and/time
+*Shield for earth \
+	-Purchasing a shield upgrade for the Earth \
+	-Shooting at the Earth will activate the shield. \
+	-This will protect the earth from any asteroids for a limited amount of time and/or damage
 
-*Asteroid tracker
+*Asteroid tracker \
 	-With the use of a radar system you'd be able to. Is track asteroids from the hood
 
-*Different Maps
-On Planet Earth
-The Moon
-Mars 
-Saturn
+*Different Maps \
+On Planet Earth \
+The Moon \
+Mars \
+Saturn \
