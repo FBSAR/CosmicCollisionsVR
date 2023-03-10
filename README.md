@@ -27,6 +27,7 @@ Future ideas for the game \
 	-The strength of the torrents and coverage will depend on the type of torrent
 
 *Boss asteroid (add boss music 🤣) \
+EDIT: Final Bossteroid???? \
 	-Will be the most difficult to destroy and would likely require the help of many torrents.
 
 *Shield for earth \
